@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "match": true,
+    "expected": {
+      "ward": "koto"
+    },
+    "predicted": {
+      "ward": "koto",
+      "raw": "<observation>The image shows a wide road with a large industrial or warehouse building on the left and utility poles on the right. The lighting is minimal, with a tall, slender, metallic pole mounted on a concrete utility pole, featuring a compact, rectangular, downward-facing lamp head. There are no decorative, retro, or ornamental lamps visible. The environment appears to be an industrial or mixed-use area, and the lamp is designed for both functional and utilitarian purposes.</observation>\n<reasoning>Based on the observation, the lamp is a tall, slender, metallic pole mounted on a concrete utility pole with a compact, rectangular, downward-facing lamp head. The context is a wide road or industrial zone, and there are no decorative or retro features present. According to the lamp cheat sheet, this setup—tall, metallic pole on a utility pole, compact, utilitarian lamp head—is a very common feature in many Tokyo wards, especially in commercial, industrial, and wide roads. However, the key feature \"tall, slender metallic pole on a utility pole, compact rectangular lamp head\" is also highlighted as being especially common and not unique to any specific ward, but it fits the \"industrial\" and \"mixed-use\" contexts seen here. The lack of decorative lamps and the presence of industrial/warehouse buildings also aligns with the industrial/commercial wards. Based on the CAUTION notes, the presence of such lamps is not unique to any ward and should not be used as a standalone indicator. However, the context and lamp style are strongly suggestive of Koto Ward, which is known for its consistent use of these types of lamps in wide roads, industrial zones, and for its unobtrusive, functional lighting. Therefore, the most likely ward is Koto.</reasoning>\n<ward>Koto</ward>"
+    }
+  },
+  {
+    "id": 13,
+    "match": false,
+    "expected": {
+      "ward": "shibuya"
+    },
+    "predicted": {
+      "ward": "kita",
+      "raw": "<observation>The image shows a quiet residential street with modern houses and a small commercial area. The street lighting is minimalist, featuring slim, metallic poles with gently curved arms and compact, modern lamp heads in a muted color. There are no decorative or retro lamp fixtures, and the lighting is strictly functional and unobtrusive.</observation>\n<reasoning>Based on the observation, the key features here are the strict, modern, utilitarian lamp style—slender metallic poles with gently curved arms and compact lamp heads, in a muted color palette. There is no sign of decorative, retro, or lantern-style lamps, nor any historic or color accents. This matches the detailed lamp information for Kita Ward, which emphasizes a strong uniformity of modern, utilitarian lamp types and a total absence of decorative features, even in residential settings. The modern, minimalist approach, the lack of ornamentation, and the context-specific context-driven lamp design are all highly characteristic of Kita Ward. Other wards could have some of these features, but Kita's absolute uniformity and absence of any decorative or retro lamp types make it the most likely match.</reasoning>\n<ward>Kita</ward>"
+    }
+  },
+  {
+    "id": 16,
+    "match": false,
+    "expected": {
+      "ward": "ota"
+    },
+    "predicted": {
+      "ward": "katsushika",
+      "raw": "<observation>The image shows a wide multi-lane highway with a median, a fence, and shipping containers along the left side. The street lighting consists of standalone, modern, utilitarian poles with slim, metallic gray or black, T-bar or gooseneck arms and compact, boxy lamp heads. There are no decorative or retro lamps present, and the overall lighting style is strictly functional and contextually integrated into the infrastructure.</observation>\n<reasoning>Based on the observation, the scene shows a wide, modern highway with utilitarian, minimalist lamp posts—specifically T-bar or gooseneck arms and compact boxy heads. There is a total absence of decorative or retro lamps, and the lamps blend seamlessly into the infrastructure. This matches the description of a ward where the lighting is highly functional and contextually integrated, with a complete lack of ornamentation and a strictly utilitarian style, even on major roads. \n\nAccording to the lamp information, this exact combination of modern, utilitarian T-bar or gooseneck poles with compact boxy heads is particularly characteristic of Katsushika ward, which is known for its strict, modern, functional street lighting, even on major roads. The lack of any decorative or historic elements further fits Katsushika's unique pattern.\n\nWhile other wards (such as Shinagawa, Koto, Setagaya, or Minato) also have functional, modern street lamps, the presence of the specific T-bar or gooseneck design and the total absence of decorative or retro lamps aligns best with Katsushika's distinctive identity.\n\nHowever, based on the CAUTION, the key feature \"T-bar or gooseneck arm with compact boxy head\" is not unique to Katsushika—it is also found in other wards like Shinagawa, Koto, and Suginami. But the combination with a total lack of decorative or historic lamps, and the infrastructure-integrated context of the highway, is most consistent with Katsushika.\n\nTherefore, the most likely ward is Katsushika.</reasoning>\n<ward>Katsushika</ward>"
+    }
+  },
+  {
+    "id": 31,
+    "match": false,
+    "expected": {
+      "ward": "bunkyo"
+    },
+    "predicted": {
+      "ward": "shinagawa",
+      "raw": "<observation>The image shows a modern, utilitarian street lamp mounted on a standard, tall, metallic pole in a mid- to late-20th-century minimalist style. The lamp is rectangular or boxy with a subtle, curved arm and features a muted color palette (dark gray, metallic). There is no visible ornamentation or decorative features, and the overall look is highly functional and context-integrated. The street appears to be in an urban, business or central area with high-rise buildings and a modern infrastructure. There are no retro or lantern-style lamps visible.</observation>\n<reasoning>Based on the observation, the lamp is a highly modern, utilitarian, minimalist type—dark gray or metallic, with a subtle curved arm and no ornamentation. The setting is a modern, urban environment with no visible historic or decorative lamp types. According to the lamp information, this is a pattern that is shared by many Tokyo wards, but the specific modern, utilitarian, muted color pole and minimalist design is particularly characteristic of Shinagawa. While modern minimalist lamps are common across Tokyo, the combination of a dedicated, context-integrated modern lamp post with no decorative elements is particularly distinctive for Shinagawa, which is known for its consistent use of modern, utilitarian lighting in all zones and no exceptions to context-based lamp design.</reasoning>\n<ward>Shinagawa</ward>"
+    }
+  },
+  {
+    "id": 45,
+    "match": false,
+    "expected": {
+      "ward": "nerima"
+    },
+    "predicted": {
+      "ward": "shinagawa",
+      "raw": "<observation>The image shows a typical Tokyo residential street with utility pole-mounted lamps. The lamp post is a standard gray concrete utility pole with a simple, compact, modern head. There is no visible ornamentation or retro/decorative lamp style. The street is clean, well-maintained, and the lighting is strictly functional and unobtrusive. There are no decorative lanterns, banners, or historic lamp types in sight.</observation>\n<reasoning>Based on the observation, the key features here are the strictly functional, modern, and unornamented street lighting with a modern pole design and a neutral color palette. This is a common pattern across many Tokyo wards and does not provide unique information for the ward. However, based on the lamp cheat sheet, Shinagawa is noted for its overwhelming uniformity and lack of decorative, retro, or historic lamp types, and its strict adherence to functional, modern lighting on all types of streets. The lack of any decorative lamp types, even on residential streets, matches the Shinagawa pattern. While the absence of ornate lamp types is also common in other wards, Shinagawa's consistent absence of decorative features makes it the most likely candidate.</reasoning>\n<ward>Shinagawa</ward>"
+    }
+  },
+  {
+    "id": 46,
+    "match": false,
+    "expected": {
+      "ward": "ota"
+    },
+    "predicted": {
+      "ward": "kita",
+      "raw": "<observation>This image shows a narrow residential lane with a utility pole-mounted lamp. The pole is a standard concrete utility pole with a short, compact lamp head, featuring a modern, utilitarian design. The lamp head is small, rectangular, and metallic, with a subtle, minimalist finish. There are no decorative, retro, or ornamental lamp features present; the lighting is strictly functional and contextually matched to the street setting.</observation>\n<reasoning>Based on the observation, the street lamp here is a modern, utilitarian pole-mounted lamp with a compact, rectangular head in a neutral color, mounted on a concrete utility pole. This type of lamp is common across many Tokyo wards, but the context and style are especially typical of Kita ward, which is known for its strict modern, utilitarian lighting on nearly every pole, with no ornamentation, even in residential areas. While the utilitarian, modern design is not unique to Kita (as many other wards use similar lamps), the combination of contextually tailored modern lamps, the absence of decorative features, and the absence of any exception to this pattern are particularly characteristic of Kita. There are no visible signs of traditional lanterns, twin-globe retro lamps, or color-coding that might suggest other wards, and the total lack of ornamentation aligns with Kita's identity.</reasoning>\n<ward>Kita</ward>"
+    }
+  }
+]

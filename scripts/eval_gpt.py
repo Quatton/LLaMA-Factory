@@ -26,6 +26,11 @@ with open("data/tokyo_2k_v2_test.json") as f:
 with open("../output_gpt.json") as f:
     answers = json.load(f)
 
+with open("data/lamp_contrasted_summaries_small.json") as f:
+    cheat_summaries = json.load(f)
+
+all_summaries = "\n\n".join([f"{entry['ward']}'s lamp features: {entry['lamp_info']}" for entry in cheat_summaries])
+
 DATAROOT = "data/"
 
 FILE = os.environ.get("FILE", "3b_lamp")
@@ -55,22 +60,27 @@ def main():
 
         # Call OpenAI API
         response = api.chat.completions.create(
-            model="Qwen/Qwen2.5-VL-3B-Instruct",
+            model="Qwen/Qwen2.5-VL-7B-Instruct",
             messages=[
+                {
+                    "role": "system",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": f"Here is a cheat sheet with information about the lamp features in Tokyo wards: {all_summaries}",
+                        },
+                    ],
+                },
                 {
                     "role": "user",
                     "content": [
                         {
                             "type": "text",
-                            "text": """Where is this place located in Tokyo? Provide observations of its key features, and based on that, reason about the ward it is located in. Your answer format should be an XML object with the following structure:  <observation>Details about the image without specifying the ward</observation><reasoning>Based on the observation, try to look for candidate wards that might match the image. If you are not sure, guess the ward that you think is most likely to match the image.</reasoning><ward>Ward name only without any suffix</ward>
-
-                            List of wards in Tokyo:
-                            adachi, arakawa, bunkyo, chiyoda, chuo, edogawa, itabashi, katsushika, kita, koto, meguro, minato, nakano, nerima, oota, setagaya, shibuya, shinagawa, shinjuku, shibuya, suginami, sumida, taito.
-                            """,
+                            "text": """Where is this place located in Tokyo? Provide observations of its key features, and based on that, reason about the ward it is located in. Your answer format should be an XML object with the following structure:  <observation>Details about the image without specifying the ward</observation><reasoning>Based on the observation, try to look for candidate wards that might match the image. If you are not sure, guess the ward that you think is most likely to match the image.</reasoning><ward>Ward name only without any suffix</ward>""",
                         },
                         {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{image_base64}"}},
                     ],
-                }
+                },
             ],
         )
 
