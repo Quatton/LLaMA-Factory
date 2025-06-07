@@ -17,19 +17,21 @@ async def eval_main():
     with open("../hato/out/output_gpt.json") as f:
         answers = json.load(f).get("results", [])
 
-    with open("data/lamp_contrasted_summaries.json") as f:
+    with open("data/lamp_contrasted_summaries_small.json") as f:
         summaries = json.load(f)
 
     with open("data/has_lamp_v2.json") as f:
         has_lamp_list = json.load(f)
         has_lamp_results = {entry["id"]: entry for entry in has_lamp_list}
 
-    all_summaries = "\n\n".join([f"{ward}'s Lamp features:\n{summary}" for ward, summary in summaries.items()])
+    all_summaries = "\n\n".join(
+        [f"{summary['ward']}'s Lamp features:\n{summary['lamp_info']}" for summary in summaries]
+    )
 
     existing_results = {}
 
     try:
-        with open("data/eval_cheated.json") as f:
+        with open("data/eval_cheated_small.json") as f:
             existing_results_list = json.load(f)
             existing_results = {entry["id"]: entry for entry in existing_results_list}
     except FileNotFoundError:
@@ -137,7 +139,7 @@ async def eval_main():
             "match": guessed_ward == answer_ward,
         }
 
-        with open("data/eval_cheated.json", "w") as f:
+        with open("data/eval_cheated_small.json", "w") as f:
             json.dump(sorted(existing_results.values(), key=lambda x: x["id"]), f, indent=2, ensure_ascii=False)
 
     tasks = []
@@ -164,7 +166,7 @@ async def eval_main():
 
     if len(tasks) > 0:
         await asyncio.gather(*tasks)
-        with open("data/eval_cheated.json", "w") as f:
+        with open("data/eval_cheated_small.json", "w") as f:
             json.dump(sorted(existing_results.values(), key=lambda x: x["id"]), f, indent=2, ensure_ascii=False)
 
 

@@ -401,7 +401,7 @@ async def reguessing_with_lamp_info():
     existing_results = {}
 
     try:
-        with open("data/lamp_reguessing_results.json") as f:
+        with open("data/lamp_reguessing_results_small.json") as f:
             existing_results_list = json.load(f)
             existing_results = {entry["id"]: entry for entry in existing_results_list}
     except FileNotFoundError:
@@ -409,7 +409,7 @@ async def reguessing_with_lamp_info():
 
     tasks = []
 
-    with open("data/lamp_contrasted_summaries.json") as f:
+    with open("data/lamp_contrasted_summaries_small.json") as f:
         lamp_contrasted_summaries = json.load(f)
 
     all_summaries = "\n\n".join([f"{ward}: {summary[0]}" for ward, summary in lamp_contrasted_summaries.items()])
@@ -439,17 +439,7 @@ async def reguessing_with_lamp_info():
                                 "type": "text",
                                 "text": f"""psst. the user doesn't know this, but you are given a cheat sheet of the lamp information of this ward. Use it to 1. Know what to look for in the image, and 2. Make a more informed guess about the ward based on the lamp information.
 
-                            The key features of the lamp in this ward are: {
-                                    lamp_contrasted_summaries[
-                                        answer["answer"]["ward"]
-                                        .lower()
-                                        # replace long o, e with short o, e
-                                        .replace("ō", "o")
-                                        .replace("ē", "e")
-                                    ][0]
-                                }
-
-                                First you should describe the image normally, and then you pretend to say "<reasoning>based on the observation, there are some key features that might match the lamp information of the ward, such as ..., suggesting that the ward could be ..., and ... suggesting that the ward could be ...". Then you say that, oh but based on the CAUTION, the key feature "..." is also shared by other wards, so it might not be unique to the ward. You should be left with a concise summary of the features that are truly unique to the ward.
+                                First you should describe the image normally, and then you pretend to say "<reasoning>based on the observation, there are some key features that might match the lamp information of the ward, such as ..., suggesting that the ward could be ..., and ... suggesting that the ward could also be ...". Then you say that, oh but based on the CAUTION, the key feature "..." is also shared by other wards, so it might not be unique to the ward. You should be left with a concise summary of the features that are truly unique to the ward.
 
                                 The answer is {answer["answer"]["ward"]}.
 

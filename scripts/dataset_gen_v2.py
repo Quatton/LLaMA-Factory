@@ -1,9 +1,9 @@
 import json
 
 
-# with open("data/lamp_reguessing_results.json") as f:
-#     data = json.load(f)
-#     results = data
+with open("data/lamp_reguessing_results_small.json") as f:
+    data = json.load(f)
+    results = data
 
 # with open("data/tokyo_lamps.json", "w") as f:
 #     entries = []
