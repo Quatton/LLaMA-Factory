@@ -10,17 +10,14 @@ api = OpenAI(api_key="0", base_url="http://0.0.0.0:8000/v1")
 
 
 def extract_info(text: str):
-    """Extract ward and town from the text."""
+    """Extract ward."""
     ward_match = re.search(r"<ward>\s*(.*?)\s*</ward>", text)
-    town_match = re.search(r"<town>\s*(.*?)\s*</town>", text)
-
-    ward = ward_match.group(1).strip() if ward_match else "Unknown"
-    town = town_match.group(1).strip() if town_match else None
-
-    return {"ward": ward, "town": town}
+    return {
+        "ward": ward_match.group(1) if ward_match else None,
+    }
 
 
-with open("data/tokyo_2k_test.json") as f:
+with open("data/tokyo_2k_v2_test.json") as f:
     dataset = json.load(f)
 
 with open("../output_gpt.json") as f:
@@ -28,12 +25,14 @@ with open("../output_gpt.json") as f:
 
 DATAROOT = "data/"
 
+FILE = "lora_3b_lamp"
+
 
 def main():
     existing_results = []
     # Load existing evaluation results
     try:
-        with open("../data/eval_results.json") as f:
+        with open(f"../data/eval_results_{FILE}.json") as f:
             existing_results = json.load(f)
             evaluated_ids = {entry["id"] for entry in existing_results}
 
@@ -45,7 +44,7 @@ def main():
     # Evaluate each entry
     results = []
     for entry in entries:
-        image_path = entry["image"]
+        image_path = entry["image"].replace("tokyo_2k/", "tokyo_2k_v2/")
 
         id = int(image_path.split("/")[-1].split("_")[0])
 
@@ -62,22 +61,7 @@ def main():
                     "content": [
                         {
                             "type": "text",
-                            "text": """Where is this location in Tokyo? Provide observations and reasoning.
-
-Response format:
-
-<observation>
-Things to describe the place, such as buildings, landmarks, etc. Do not include the name of ward or town.
-</observation>
-<reasoning>
-Reasoning about the location, based on the observation.
-</reasoning>
-<ward>Choose one from 23 wards</ward>
-
-23 wards in Tokyo: <ward>Adachi</ward>, <ward>Arakawa</ward>, <ward>Bunkyo</ward>, <ward>Chiyoda</ward>, <ward>Chuo</ward>, <ward>Edogawa</ward>, <ward>Itabashi</ward>, <ward>Katsushika</ward>, <ward>Kita</ward>, <ward>Koto</ward>, <ward>Meguro</ward>, <ward>Minato</ward>, <ward>Nerima</ward>, <ward>Ota</ward>, <ward>Setagaya</ward>, <ward>Shibuya</ward>, <ward>Shinagawa</ward>, <ward>Shinjuku</ward>, <ward>Suginami</ward>, <ward>Toshima</ward>, <ward>Sumida</ward>, <ward>Taito</ward>
-
-Common mistakes:
-<ward>Tokyo</ward> is not a valid ward. Tokyo is a prefecture.""",
+                            "text": """Where is this place located in Tokyo? Provide observations of its key features, and based on that, reason about the ward it is located in. Your answer format should be an XML object with the following structure:  <observation>Details about the image without specifying the ward</observation><reasoning>Based on the observation, try to look for candidate wards that might match the image. If you are not sure, guess the ward that you think is most likely to match the image.</reasoning><ward>Ward name</ward>""",
                         },
                         {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{image_base64}"}},
                     ],
@@ -87,34 +71,26 @@ Common mistakes:
 
         entry_info = extract_info(entry["conversations"][1]["value"])
         expected_ward = entry_info.get("ward")
-        expected_town = entry_info.get("town")
 
-        result = {"id": id, "match": False, "expected": {"ward": expected_ward, "town": expected_town}}
+        result = {"id": id, "match": False, "expected": {"ward": expected_ward}}
         # Parse the response
         content = response.choices[0].message.content
 
         if not content:
-            results.append(result)
             continue
 
-        print(f"Evaluating ID: {id}, Content: {content}")
+        print(f"Evaluating ID: {id}")
 
         answer = extract_info(content)
         ward = answer.get("ward")
-        town = answer.get("town")
 
         # Check if the answer matches
-        print(
-            f"Evaluating ID: {id}, Ward: {ward}, Town: {town} vs Expected Ward: {expected_ward}, Expected Town: {expected_town}"
-        )
+        print(f"Evaluating ID: {id}, Ward: {ward} vs Expected Ward: {expected_ward}")
 
         match = ward == expected_ward
 
         result["predicted"] = {
             "ward": ward,
-            "town": town,
-            "observation": answer.get("observation", ""),
-            "reasoning": answer.get("reasoning", ""),
             "raw": content,
         }
         result["match"] = match
@@ -122,10 +98,10 @@ Common mistakes:
 
         # Append new results to existing ones
         if existing_results is not None:
-            results = existing_results + results
+            results.extend(existing_results)
 
         # Save the updated evaluation results
-        with open("data/eval_results_base_3b.json", "w") as f:
+        with open(f"data/eval_results_{FILE}.json", "w") as f:
             json.dump(results, f, indent=2, ensure_ascii=False)
 
 
