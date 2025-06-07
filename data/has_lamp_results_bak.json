@@ -1,0 +1,3410 @@
+[
+  {
+    "id": 121,
+    "has_lamp": false
+  },
+  {
+    "id": 122,
+    "has_lamp": false
+  },
+  {
+    "id": 123,
+    "has_lamp": true
+  },
+  {
+    "id": 124,
+    "has_lamp": false
+  },
+  {
+    "id": 125,
+    "has_lamp": false
+  },
+  {
+    "id": 126,
+    "has_lamp": true
+  },
+  {
+    "id": 127,
+    "has_lamp": true
+  },
+  {
+    "id": 128,
+    "has_lamp": false
+  },
+  {
+    "id": 129,
+    "has_lamp": false
+  },
+  {
+    "id": 130,
+    "has_lamp": true
+  },
+  {
+    "id": 131,
+    "has_lamp": true
+  },
+  {
+    "id": 132,
+    "has_lamp": true
+  },
+  {
+    "id": 133,
+    "has_lamp": false
+  },
+  {
+    "id": 134,
+    "has_lamp": true
+  },
+  {
+    "id": 135,
+    "has_lamp": true
+  },
+  {
+    "id": 136,
+    "has_lamp": false
+  },
+  {
+    "id": 137,
+    "has_lamp": true
+  },
+  {
+    "id": 138,
+    "has_lamp": false
+  },
+  {
+    "id": 139,
+    "has_lamp": false
+  },
+  {
+    "id": 140,
+    "has_lamp": true
+  },
+  {
+    "id": 141,
+    "has_lamp": false
+  },
+  {
+    "id": 142,
+    "has_lamp": true
+  },
+  {
+    "id": 143,
+    "has_lamp": true
+  },
+  {
+    "id": 144,
+    "has_lamp": false
+  },
+  {
+    "id": 145,
+    "has_lamp": true
+  },
+  {
+    "id": 146,
+    "has_lamp": true
+  },
+  {
+    "id": 147,
+    "has_lamp": true
+  },
+  {
+    "id": 148,
+    "has_lamp": true
+  },
+  {
+    "id": 149,
+    "has_lamp": false
+  },
+  {
+    "id": 150,
+    "has_lamp": true
+  },
+  {
+    "id": 151,
+    "has_lamp": false
+  },
+  {
+    "id": 153,
+    "has_lamp": false
+  },
+  {
+    "id": 154,
+    "has_lamp": false
+  },
+  {
+    "id": 155,
+    "has_lamp": false
+  },
+  {
+    "id": 156,
+    "has_lamp": false
+  },
+  {
+    "id": 157,
+    "has_lamp": true
+  },
+  {
+    "id": 158,
+    "has_lamp": false
+  },
+  {
+    "id": 159,
+    "has_lamp": true
+  },
+  {
+    "id": 160,
+    "has_lamp": false
+  },
+  {
+    "id": 161,
+    "has_lamp": true
+  },
+  {
+    "id": 162,
+    "has_lamp": true
+  },
+  {
+    "id": 163,
+    "has_lamp": true
+  },
+  {
+    "id": 164,
+    "has_lamp": true
+  },
+  {
+    "id": 165,
+    "has_lamp": true
+  },
+  {
+    "id": 167,
+    "has_lamp": true
+  },
+  {
+    "id": 168,
+    "has_lamp": false
+  },
+  {
+    "id": 169,
+    "has_lamp": false
+  },
+  {
+    "id": 170,
+    "has_lamp": true
+  },
+  {
+    "id": 171,
+    "has_lamp": false
+  },
+  {
+    "id": 172,
+    "has_lamp": true
+  },
+  {
+    "id": 173,
+    "has_lamp": true
+  },
+  {
+    "id": 174,
+    "has_lamp": false
+  },
+  {
+    "id": 175,
+    "has_lamp": true
+  },
+  {
+    "id": 176,
+    "has_lamp": false
+  },
+  {
+    "id": 177,
+    "has_lamp": false
+  },
+  {
+    "id": 178,
+    "has_lamp": true
+  },
+  {
+    "id": 179,
+    "has_lamp": true
+  },
+  {
+    "id": 180,
+    "has_lamp": true
+  },
+  {
+    "id": 181,
+    "has_lamp": true
+  },
+  {
+    "id": 182,
+    "has_lamp": true
+  },
+  {
+    "id": 183,
+    "has_lamp": true
+  },
+  {
+    "id": 184,
+    "has_lamp": false
+  },
+  {
+    "id": 185,
+    "has_lamp": true
+  },
+  {
+    "id": 186,
+    "has_lamp": false
+  },
+  {
+    "id": 187,
+    "has_lamp": true
+  },
+  {
+    "id": 188,
+    "has_lamp": true
+  },
+  {
+    "id": 189,
+    "has_lamp": true
+  },
+  {
+    "id": 190,
+    "has_lamp": true
+  },
+  {
+    "id": 191,
+    "has_lamp": true
+  },
+  {
+    "id": 192,
+    "has_lamp": false
+  },
+  {
+    "id": 193,
+    "has_lamp": true
+  },
+  {
+    "id": 194,
+    "has_lamp": false
+  },
+  {
+    "id": 195,
+    "has_lamp": true
+  },
+  {
+    "id": 196,
+    "has_lamp": true
+  },
+  {
+    "id": 197,
+    "has_lamp": false
+  },
+  {
+    "id": 198,
+    "has_lamp": true
+  },
+  {
+    "id": 199,
+    "has_lamp": false
+  },
+  {
+    "id": 200,
+    "has_lamp": true
+  },
+  {
+    "id": 201,
+    "has_lamp": false
+  },
+  {
+    "id": 202,
+    "has_lamp": true
+  },
+  {
+    "id": 203,
+    "has_lamp": true
+  },
+  {
+    "id": 204,
+    "has_lamp": true
+  },
+  {
+    "id": 205,
+    "has_lamp": false
+  },
+  {
+    "id": 206,
+    "has_lamp": true
+  },
+  {
+    "id": 207,
+    "has_lamp": true
+  },
+  {
+    "id": 208,
+    "has_lamp": true
+  },
+  {
+    "id": 209,
+    "has_lamp": true
+  },
+  {
+    "id": 210,
+    "has_lamp": true
+  },
+  {
+    "id": 211,
+    "has_lamp": false
+  },
+  {
+    "id": 212,
+    "has_lamp": true
+  },
+  {
+    "id": 213,
+    "has_lamp": true
+  },
+  {
+    "id": 214,
+    "has_lamp": false
+  },
+  {
+    "id": 215,
+    "has_lamp": false
+  },
+  {
+    "id": 216,
+    "has_lamp": true
+  },
+  {
+    "id": 217,
+    "has_lamp": true
+  },
+  {
+    "id": 218,
+    "has_lamp": false
+  },
+  {
+    "id": 219,
+    "has_lamp": true
+  },
+  {
+    "id": 220,
+    "has_lamp": true
+  },
+  {
+    "id": 221,
+    "has_lamp": true
+  },
+  {
+    "id": 222,
+    "has_lamp": false
+  },
+  {
+    "id": 223,
+    "has_lamp": true
+  },
+  {
+    "id": 224,
+    "has_lamp": true
+  },
+  {
+    "id": 225,
+    "has_lamp": false
+  },
+  {
+    "id": 226,
+    "has_lamp": false
+  },
+  {
+    "id": 227,
+    "has_lamp": false
+  },
+  {
+    "id": 228,
+    "has_lamp": false
+  },
+  {
+    "id": 229,
+    "has_lamp": false
+  },
+  {
+    "id": 230,
+    "has_lamp": true
+  },
+  {
+    "id": 231,
+    "has_lamp": false
+  },
+  {
+    "id": 232,
+    "has_lamp": true
+  },
+  {
+    "id": 233,
+    "has_lamp": true
+  },
+  {
+    "id": 234,
+    "has_lamp": false
+  },
+  {
+    "id": 235,
+    "has_lamp": true
+  },
+  {
+    "id": 236,
+    "has_lamp": true
+  },
+  {
+    "id": 237,
+    "has_lamp": true
+  },
+  {
+    "id": 238,
+    "has_lamp": false
+  },
+  {
+    "id": 239,
+    "has_lamp": true
+  },
+  {
+    "id": 240,
+    "has_lamp": true
+  },
+  {
+    "id": 241,
+    "has_lamp": true
+  },
+  {
+    "id": 242,
+    "has_lamp": true
+  },
+  {
+    "id": 243,
+    "has_lamp": true
+  },
+  {
+    "id": 244,
+    "has_lamp": false
+  },
+  {
+    "id": 245,
+    "has_lamp": false
+  },
+  {
+    "id": 246,
+    "has_lamp": true
+  },
+  {
+    "id": 247,
+    "has_lamp": true
+  },
+  {
+    "id": 248,
+    "has_lamp": true
+  },
+  {
+    "id": 249,
+    "has_lamp": true
+  },
+  {
+    "id": 250,
+    "has_lamp": true
+  },
+  {
+    "id": 251,
+    "has_lamp": true
+  },
+  {
+    "id": 252,
+    "has_lamp": false
+  },
+  {
+    "id": 253,
+    "has_lamp": true
+  },
+  {
+    "id": 254,
+    "has_lamp": true
+  },
+  {
+    "id": 255,
+    "has_lamp": false
+  },
+  {
+    "id": 256,
+    "has_lamp": false
+  },
+  {
+    "id": 257,
+    "has_lamp": false
+  },
+  {
+    "id": 258,
+    "has_lamp": true
+  },
+  {
+    "id": 259,
+    "has_lamp": false
+  },
+  {
+    "id": 260,
+    "has_lamp": false
+  },
+  {
+    "id": 261,
+    "has_lamp": false
+  },
+  {
+    "id": 262,
+    "has_lamp": true
+  },
+  {
+    "id": 263,
+    "has_lamp": true
+  },
+  {
+    "id": 264,
+    "has_lamp": false
+  },
+  {
+    "id": 265,
+    "has_lamp": true
+  },
+  {
+    "id": 266,
+    "has_lamp": false
+  },
+  {
+    "id": 267,
+    "has_lamp": false
+  },
+  {
+    "id": 268,
+    "has_lamp": true
+  },
+  {
+    "id": 269,
+    "has_lamp": false
+  },
+  {
+    "id": 270,
+    "has_lamp": false
+  },
+  {
+    "id": 271,
+    "has_lamp": true
+  },
+  {
+    "id": 272,
+    "has_lamp": false
+  },
+  {
+    "id": 273,
+    "has_lamp": false
+  },
+  {
+    "id": 274,
+    "has_lamp": false
+  },
+  {
+    "id": 275,
+    "has_lamp": true
+  },
+  {
+    "id": 276,
+    "has_lamp": false
+  },
+  {
+    "id": 277,
+    "has_lamp": false
+  },
+  {
+    "id": 278,
+    "has_lamp": true
+  },
+  {
+    "id": 279,
+    "has_lamp": true
+  },
+  {
+    "id": 280,
+    "has_lamp": true
+  },
+  {
+    "id": 281,
+    "has_lamp": true
+  },
+  {
+    "id": 282,
+    "has_lamp": true
+  },
+  {
+    "id": 283,
+    "has_lamp": true
+  },
+  {
+    "id": 284,
+    "has_lamp": false
+  },
+  {
+    "id": 285,
+    "has_lamp": false
+  },
+  {
+    "id": 286,
+    "has_lamp": true
+  },
+  {
+    "id": 287,
+    "has_lamp": true
+  },
+  {
+    "id": 288,
+    "has_lamp": true
+  },
+  {
+    "id": 289,
+    "has_lamp": false
+  },
+  {
+    "id": 290,
+    "has_lamp": false
+  },
+  {
+    "id": 291,
+    "has_lamp": false
+  },
+  {
+    "id": 292,
+    "has_lamp": true
+  },
+  {
+    "id": 293,
+    "has_lamp": true
+  },
+  {
+    "id": 294,
+    "has_lamp": false
+  },
+  {
+    "id": 295,
+    "has_lamp": true
+  },
+  {
+    "id": 296,
+    "has_lamp": false
+  },
+  {
+    "id": 297,
+    "has_lamp": true
+  },
+  {
+    "id": 298,
+    "has_lamp": true
+  },
+  {
+    "id": 299,
+    "has_lamp": true
+  },
+  {
+    "id": 300,
+    "has_lamp": true
+  },
+  {
+    "id": 301,
+    "has_lamp": false
+  },
+  {
+    "id": 302,
+    "has_lamp": true
+  },
+  {
+    "id": 303,
+    "has_lamp": false
+  },
+  {
+    "id": 304,
+    "has_lamp": true
+  },
+  {
+    "id": 305,
+    "has_lamp": true
+  },
+  {
+    "id": 306,
+    "has_lamp": false
+  },
+  {
+    "id": 307,
+    "has_lamp": true
+  },
+  {
+    "id": 308,
+    "has_lamp": true
+  },
+  {
+    "id": 309,
+    "has_lamp": true
+  },
+  {
+    "id": 310,
+    "has_lamp": true
+  },
+  {
+    "id": 311,
+    "has_lamp": false
+  },
+  {
+    "id": 312,
+    "has_lamp": true
+  },
+  {
+    "id": 313,
+    "has_lamp": true
+  },
+  {
+    "id": 314,
+    "has_lamp": false
+  },
+  {
+    "id": 315,
+    "has_lamp": true
+  },
+  {
+    "id": 316,
+    "has_lamp": true
+  },
+  {
+    "id": 317,
+    "has_lamp": false
+  },
+  {
+    "id": 318,
+    "has_lamp": true
+  },
+  {
+    "id": 319,
+    "has_lamp": true
+  },
+  {
+    "id": 320,
+    "has_lamp": false
+  },
+  {
+    "id": 321,
+    "has_lamp": true
+  },
+  {
+    "id": 322,
+    "has_lamp": true
+  },
+  {
+    "id": 323,
+    "has_lamp": false
+  },
+  {
+    "id": 324,
+    "has_lamp": true
+  },
+  {
+    "id": 325,
+    "has_lamp": true
+  },
+  {
+    "id": 326,
+    "has_lamp": true
+  },
+  {
+    "id": 327,
+    "has_lamp": true
+  },
+  {
+    "id": 328,
+    "has_lamp": true
+  },
+  {
+    "id": 329,
+    "has_lamp": false
+  },
+  {
+    "id": 330,
+    "has_lamp": true
+  },
+  {
+    "id": 331,
+    "has_lamp": true
+  },
+  {
+    "id": 332,
+    "has_lamp": false
+  },
+  {
+    "id": 333,
+    "has_lamp": false
+  },
+  {
+    "id": 334,
+    "has_lamp": true
+  },
+  {
+    "id": 335,
+    "has_lamp": true
+  },
+  {
+    "id": 336,
+    "has_lamp": true
+  },
+  {
+    "id": 337,
+    "has_lamp": false
+  },
+  {
+    "id": 338,
+    "has_lamp": true
+  },
+  {
+    "id": 339,
+    "has_lamp": true
+  },
+  {
+    "id": 340,
+    "has_lamp": true
+  },
+  {
+    "id": 341,
+    "has_lamp": true
+  },
+  {
+    "id": 342,
+    "has_lamp": true
+  },
+  {
+    "id": 343,
+    "has_lamp": true
+  },
+  {
+    "id": 344,
+    "has_lamp": true
+  },
+  {
+    "id": 345,
+    "has_lamp": true
+  },
+  {
+    "id": 346,
+    "has_lamp": false
+  },
+  {
+    "id": 347,
+    "has_lamp": false
+  },
+  {
+    "id": 348,
+    "has_lamp": false
+  },
+  {
+    "id": 349,
+    "has_lamp": false
+  },
+  {
+    "id": 350,
+    "has_lamp": false
+  },
+  {
+    "id": 351,
+    "has_lamp": true
+  },
+  {
+    "id": 352,
+    "has_lamp": true
+  },
+  {
+    "id": 353,
+    "has_lamp": false
+  },
+  {
+    "id": 354,
+    "has_lamp": true
+  },
+  {
+    "id": 355,
+    "has_lamp": true
+  },
+  {
+    "id": 356,
+    "has_lamp": false
+  },
+  {
+    "id": 357,
+    "has_lamp": true
+  },
+  {
+    "id": 358,
+    "has_lamp": false
+  },
+  {
+    "id": 359,
+    "has_lamp": true
+  },
+  {
+    "id": 360,
+    "has_lamp": true
+  },
+  {
+    "id": 361,
+    "has_lamp": false
+  },
+  {
+    "id": 362,
+    "has_lamp": true
+  },
+  {
+    "id": 363,
+    "has_lamp": true
+  },
+  {
+    "id": 364,
+    "has_lamp": true
+  },
+  {
+    "id": 365,
+    "has_lamp": true
+  },
+  {
+    "id": 366,
+    "has_lamp": true
+  },
+  {
+    "id": 367,
+    "has_lamp": true
+  },
+  {
+    "id": 368,
+    "has_lamp": false
+  },
+  {
+    "id": 369,
+    "has_lamp": true
+  },
+  {
+    "id": 370,
+    "has_lamp": false
+  },
+  {
+    "id": 371,
+    "has_lamp": true
+  },
+  {
+    "id": 372,
+    "has_lamp": true
+  },
+  {
+    "id": 373,
+    "has_lamp": true
+  },
+  {
+    "id": 374,
+    "has_lamp": true
+  },
+  {
+    "id": 375,
+    "has_lamp": false
+  },
+  {
+    "id": 376,
+    "has_lamp": true
+  },
+  {
+    "id": 377,
+    "has_lamp": true
+  },
+  {
+    "id": 378,
+    "has_lamp": true
+  },
+  {
+    "id": 379,
+    "has_lamp": false
+  },
+  {
+    "id": 380,
+    "has_lamp": false
+  },
+  {
+    "id": 381,
+    "has_lamp": true
+  },
+  {
+    "id": 382,
+    "has_lamp": true
+  },
+  {
+    "id": 383,
+    "has_lamp": false
+  },
+  {
+    "id": 384,
+    "has_lamp": true
+  },
+  {
+    "id": 385,
+    "has_lamp": true
+  },
+  {
+    "id": 386,
+    "has_lamp": true
+  },
+  {
+    "id": 387,
+    "has_lamp": false
+  },
+  {
+    "id": 388,
+    "has_lamp": true
+  },
+  {
+    "id": 389,
+    "has_lamp": true
+  },
+  {
+    "id": 390,
+    "has_lamp": false
+  },
+  {
+    "id": 391,
+    "has_lamp": true
+  },
+  {
+    "id": 392,
+    "has_lamp": true
+  },
+  {
+    "id": 393,
+    "has_lamp": false
+  },
+  {
+    "id": 394,
+    "has_lamp": true
+  },
+  {
+    "id": 395,
+    "has_lamp": false
+  },
+  {
+    "id": 396,
+    "has_lamp": false
+  },
+  {
+    "id": 397,
+    "has_lamp": false
+  },
+  {
+    "id": 398,
+    "has_lamp": true
+  },
+  {
+    "id": 399,
+    "has_lamp": false
+  },
+  {
+    "id": 400,
+    "has_lamp": false
+  },
+  {
+    "id": 401,
+    "has_lamp": false
+  },
+  {
+    "id": 402,
+    "has_lamp": false
+  },
+  {
+    "id": 403,
+    "has_lamp": false
+  },
+  {
+    "id": 404,
+    "has_lamp": true
+  },
+  {
+    "id": 405,
+    "has_lamp": false
+  },
+  {
+    "id": 406,
+    "has_lamp": true
+  },
+  {
+    "id": 407,
+    "has_lamp": false
+  },
+  {
+    "id": 408,
+    "has_lamp": true
+  },
+  {
+    "id": 409,
+    "has_lamp": false
+  },
+  {
+    "id": 410,
+    "has_lamp": true
+  },
+  {
+    "id": 411,
+    "has_lamp": true
+  },
+  {
+    "id": 412,
+    "has_lamp": true
+  },
+  {
+    "id": 413,
+    "has_lamp": true
+  },
+  {
+    "id": 414,
+    "has_lamp": false
+  },
+  {
+    "id": 415,
+    "has_lamp": true
+  },
+  {
+    "id": 416,
+    "has_lamp": false
+  },
+  {
+    "id": 417,
+    "has_lamp": true
+  },
+  {
+    "id": 418,
+    "has_lamp": true
+  },
+  {
+    "id": 419,
+    "has_lamp": true
+  },
+  {
+    "id": 420,
+    "has_lamp": false
+  },
+  {
+    "id": 421,
+    "has_lamp": false
+  },
+  {
+    "id": 422,
+    "has_lamp": true
+  },
+  {
+    "id": 423,
+    "has_lamp": true
+  },
+  {
+    "id": 424,
+    "has_lamp": true
+  },
+  {
+    "id": 425,
+    "has_lamp": false
+  },
+  {
+    "id": 426,
+    "has_lamp": false
+  },
+  {
+    "id": 427,
+    "has_lamp": true
+  },
+  {
+    "id": 428,
+    "has_lamp": false
+  },
+  {
+    "id": 429,
+    "has_lamp": true
+  },
+  {
+    "id": 430,
+    "has_lamp": true
+  },
+  {
+    "id": 431,
+    "has_lamp": false
+  },
+  {
+    "id": 432,
+    "has_lamp": true
+  },
+  {
+    "id": 433,
+    "has_lamp": true
+  },
+  {
+    "id": 434,
+    "has_lamp": false
+  },
+  {
+    "id": 435,
+    "has_lamp": true
+  },
+  {
+    "id": 436,
+    "has_lamp": true
+  },
+  {
+    "id": 437,
+    "has_lamp": true
+  },
+  {
+    "id": 438,
+    "has_lamp": false
+  },
+  {
+    "id": 439,
+    "has_lamp": true
+  },
+  {
+    "id": 440,
+    "has_lamp": true
+  },
+  {
+    "id": 441,
+    "has_lamp": true
+  },
+  {
+    "id": 442,
+    "has_lamp": false
+  },
+  {
+    "id": 443,
+    "has_lamp": false
+  },
+  {
+    "id": 444,
+    "has_lamp": true
+  },
+  {
+    "id": 445,
+    "has_lamp": true
+  },
+  {
+    "id": 446,
+    "has_lamp": false
+  },
+  {
+    "id": 447,
+    "has_lamp": false
+  },
+  {
+    "id": 448,
+    "has_lamp": true
+  },
+  {
+    "id": 449,
+    "has_lamp": true
+  },
+  {
+    "id": 450,
+    "has_lamp": true
+  },
+  {
+    "id": 451,
+    "has_lamp": true
+  },
+  {
+    "id": 452,
+    "has_lamp": true
+  },
+  {
+    "id": 453,
+    "has_lamp": false
+  },
+  {
+    "id": 454,
+    "has_lamp": false
+  },
+  {
+    "id": 455,
+    "has_lamp": false
+  },
+  {
+    "id": 456,
+    "has_lamp": true
+  },
+  {
+    "id": 457,
+    "has_lamp": true
+  },
+  {
+    "id": 458,
+    "has_lamp": true
+  },
+  {
+    "id": 459,
+    "has_lamp": true
+  },
+  {
+    "id": 460,
+    "has_lamp": true
+  },
+  {
+    "id": 461,
+    "has_lamp": true
+  },
+  {
+    "id": 462,
+    "has_lamp": true
+  },
+  {
+    "id": 463,
+    "has_lamp": false
+  },
+  {
+    "id": 464,
+    "has_lamp": false
+  },
+  {
+    "id": 465,
+    "has_lamp": false
+  },
+  {
+    "id": 466,
+    "has_lamp": true
+  },
+  {
+    "id": 467,
+    "has_lamp": false
+  },
+  {
+    "id": 468,
+    "has_lamp": true
+  },
+  {
+    "id": 469,
+    "has_lamp": true
+  },
+  {
+    "id": 470,
+    "has_lamp": false
+  },
+  {
+    "id": 471,
+    "has_lamp": true
+  },
+  {
+    "id": 473,
+    "has_lamp": false
+  },
+  {
+    "id": 474,
+    "has_lamp": true
+  },
+  {
+    "id": 475,
+    "has_lamp": true
+  },
+  {
+    "id": 476,
+    "has_lamp": false
+  },
+  {
+    "id": 477,
+    "has_lamp": false
+  },
+  {
+    "id": 478,
+    "has_lamp": false
+  },
+  {
+    "id": 479,
+    "has_lamp": true
+  },
+  {
+    "id": 480,
+    "has_lamp": false
+  },
+  {
+    "id": 481,
+    "has_lamp": true
+  },
+  {
+    "id": 482,
+    "has_lamp": false
+  },
+  {
+    "id": 483,
+    "has_lamp": true
+  },
+  {
+    "id": 484,
+    "has_lamp": false
+  },
+  {
+    "id": 485,
+    "has_lamp": false
+  },
+  {
+    "id": 486,
+    "has_lamp": true
+  },
+  {
+    "id": 487,
+    "has_lamp": false
+  },
+  {
+    "id": 488,
+    "has_lamp": true
+  },
+  {
+    "id": 489,
+    "has_lamp": false
+  },
+  {
+    "id": 490,
+    "has_lamp": true
+  },
+  {
+    "id": 491,
+    "has_lamp": true
+  },
+  {
+    "id": 492,
+    "has_lamp": false
+  },
+  {
+    "id": 493,
+    "has_lamp": true
+  },
+  {
+    "id": 494,
+    "has_lamp": true
+  },
+  {
+    "id": 495,
+    "has_lamp": false
+  },
+  {
+    "id": 496,
+    "has_lamp": false
+  },
+  {
+    "id": 497,
+    "has_lamp": false
+  },
+  {
+    "id": 498,
+    "has_lamp": true
+  },
+  {
+    "id": 499,
+    "has_lamp": true
+  },
+  {
+    "id": 500,
+    "has_lamp": false
+  },
+  {
+    "id": 501,
+    "has_lamp": false
+  },
+  {
+    "id": 502,
+    "has_lamp": false
+  },
+  {
+    "id": 503,
+    "has_lamp": false
+  },
+  {
+    "id": 504,
+    "has_lamp": true
+  },
+  {
+    "id": 505,
+    "has_lamp": false
+  },
+  {
+    "id": 506,
+    "has_lamp": false
+  },
+  {
+    "id": 507,
+    "has_lamp": false
+  },
+  {
+    "id": 508,
+    "has_lamp": false
+  },
+  {
+    "id": 509,
+    "has_lamp": true
+  },
+  {
+    "id": 510,
+    "has_lamp": true
+  },
+  {
+    "id": 511,
+    "has_lamp": true
+  },
+  {
+    "id": 512,
+    "has_lamp": true
+  },
+  {
+    "id": 513,
+    "has_lamp": true
+  },
+  {
+    "id": 514,
+    "has_lamp": false
+  },
+  {
+    "id": 515,
+    "has_lamp": true
+  },
+  {
+    "id": 516,
+    "has_lamp": true
+  },
+  {
+    "id": 517,
+    "has_lamp": false
+  },
+  {
+    "id": 518,
+    "has_lamp": true
+  },
+  {
+    "id": 519,
+    "has_lamp": true
+  },
+  {
+    "id": 520,
+    "has_lamp": false
+  },
+  {
+    "id": 521,
+    "has_lamp": true
+  },
+  {
+    "id": 522,
+    "has_lamp": false
+  },
+  {
+    "id": 523,
+    "has_lamp": false
+  },
+  {
+    "id": 524,
+    "has_lamp": false
+  },
+  {
+    "id": 525,
+    "has_lamp": true
+  },
+  {
+    "id": 526,
+    "has_lamp": true
+  },
+  {
+    "id": 527,
+    "has_lamp": true
+  },
+  {
+    "id": 528,
+    "has_lamp": true
+  },
+  {
+    "id": 529,
+    "has_lamp": false
+  },
+  {
+    "id": 530,
+    "has_lamp": true
+  },
+  {
+    "id": 531,
+    "has_lamp": true
+  },
+  {
+    "id": 532,
+    "has_lamp": true
+  },
+  {
+    "id": 533,
+    "has_lamp": true
+  },
+  {
+    "id": 534,
+    "has_lamp": true
+  },
+  {
+    "id": 535,
+    "has_lamp": false
+  },
+  {
+    "id": 536,
+    "has_lamp": true
+  },
+  {
+    "id": 537,
+    "has_lamp": true
+  },
+  {
+    "id": 538,
+    "has_lamp": false
+  },
+  {
+    "id": 539,
+    "has_lamp": true
+  },
+  {
+    "id": 540,
+    "has_lamp": false
+  },
+  {
+    "id": 541,
+    "has_lamp": true
+  },
+  {
+    "id": 542,
+    "has_lamp": true
+  },
+  {
+    "id": 543,
+    "has_lamp": false
+  },
+  {
+    "id": 544,
+    "has_lamp": true
+  },
+  {
+    "id": 545,
+    "has_lamp": false
+  },
+  {
+    "id": 546,
+    "has_lamp": true
+  },
+  {
+    "id": 547,
+    "has_lamp": true
+  },
+  {
+    "id": 548,
+    "has_lamp": false
+  },
+  {
+    "id": 549,
+    "has_lamp": true
+  },
+  {
+    "id": 551,
+    "has_lamp": true
+  },
+  {
+    "id": 552,
+    "has_lamp": false
+  },
+  {
+    "id": 553,
+    "has_lamp": true
+  },
+  {
+    "id": 554,
+    "has_lamp": false
+  },
+  {
+    "id": 555,
+    "has_lamp": true
+  },
+  {
+    "id": 556,
+    "has_lamp": false
+  },
+  {
+    "id": 557,
+    "has_lamp": false
+  },
+  {
+    "id": 558,
+    "has_lamp": false
+  },
+  {
+    "id": 559,
+    "has_lamp": true
+  },
+  {
+    "id": 560,
+    "has_lamp": true
+  },
+  {
+    "id": 561,
+    "has_lamp": false
+  },
+  {
+    "id": 562,
+    "has_lamp": true
+  },
+  {
+    "id": 563,
+    "has_lamp": false
+  },
+  {
+    "id": 564,
+    "has_lamp": true
+  },
+  {
+    "id": 565,
+    "has_lamp": true
+  },
+  {
+    "id": 566,
+    "has_lamp": true
+  },
+  {
+    "id": 567,
+    "has_lamp": false
+  },
+  {
+    "id": 568,
+    "has_lamp": true
+  },
+  {
+    "id": 569,
+    "has_lamp": true
+  },
+  {
+    "id": 570,
+    "has_lamp": true
+  },
+  {
+    "id": 571,
+    "has_lamp": false
+  },
+  {
+    "id": 572,
+    "has_lamp": true
+  },
+  {
+    "id": 573,
+    "has_lamp": true
+  },
+  {
+    "id": 574,
+    "has_lamp": true
+  },
+  {
+    "id": 575,
+    "has_lamp": true
+  },
+  {
+    "id": 576,
+    "has_lamp": true
+  },
+  {
+    "id": 577,
+    "has_lamp": true
+  },
+  {
+    "id": 578,
+    "has_lamp": true
+  },
+  {
+    "id": 579,
+    "has_lamp": false
+  },
+  {
+    "id": 580,
+    "has_lamp": false
+  },
+  {
+    "id": 581,
+    "has_lamp": true
+  },
+  {
+    "id": 582,
+    "has_lamp": true
+  },
+  {
+    "id": 583,
+    "has_lamp": true
+  },
+  {
+    "id": 584,
+    "has_lamp": true
+  },
+  {
+    "id": 585,
+    "has_lamp": true
+  },
+  {
+    "id": 586,
+    "has_lamp": false
+  },
+  {
+    "id": 587,
+    "has_lamp": false
+  },
+  {
+    "id": 588,
+    "has_lamp": false
+  },
+  {
+    "id": 589,
+    "has_lamp": true
+  },
+  {
+    "id": 590,
+    "has_lamp": true
+  },
+  {
+    "id": 591,
+    "has_lamp": true
+  },
+  {
+    "id": 592,
+    "has_lamp": false
+  },
+  {
+    "id": 593,
+    "has_lamp": false
+  },
+  {
+    "id": 594,
+    "has_lamp": true
+  },
+  {
+    "id": 595,
+    "has_lamp": true
+  },
+  {
+    "id": 596,
+    "has_lamp": true
+  },
+  {
+    "id": 597,
+    "has_lamp": true
+  },
+  {
+    "id": 598,
+    "has_lamp": true
+  },
+  {
+    "id": 599,
+    "has_lamp": false
+  },
+  {
+    "id": 600,
+    "has_lamp": true
+  },
+  {
+    "id": 601,
+    "has_lamp": true
+  },
+  {
+    "id": 602,
+    "has_lamp": false
+  },
+  {
+    "id": 603,
+    "has_lamp": false
+  },
+  {
+    "id": 604,
+    "has_lamp": false
+  },
+  {
+    "id": 606,
+    "has_lamp": true
+  },
+  {
+    "id": 607,
+    "has_lamp": true
+  },
+  {
+    "id": 608,
+    "has_lamp": true
+  },
+  {
+    "id": 609,
+    "has_lamp": false
+  },
+  {
+    "id": 610,
+    "has_lamp": false
+  },
+  {
+    "id": 611,
+    "has_lamp": true
+  },
+  {
+    "id": 612,
+    "has_lamp": false
+  },
+  {
+    "id": 613,
+    "has_lamp": true
+  },
+  {
+    "id": 614,
+    "has_lamp": false
+  },
+  {
+    "id": 615,
+    "has_lamp": false
+  },
+  {
+    "id": 616,
+    "has_lamp": false
+  },
+  {
+    "id": 617,
+    "has_lamp": false
+  },
+  {
+    "id": 618,
+    "has_lamp": false
+  },
+  {
+    "id": 619,
+    "has_lamp": false
+  },
+  {
+    "id": 620,
+    "has_lamp": true
+  },
+  {
+    "id": 621,
+    "has_lamp": false
+  },
+  {
+    "id": 622,
+    "has_lamp": false
+  },
+  {
+    "id": 623,
+    "has_lamp": true
+  },
+  {
+    "id": 624,
+    "has_lamp": true
+  },
+  {
+    "id": 626,
+    "has_lamp": true
+  },
+  {
+    "id": 627,
+    "has_lamp": true
+  },
+  {
+    "id": 628,
+    "has_lamp": false
+  },
+  {
+    "id": 629,
+    "has_lamp": true
+  },
+  {
+    "id": 630,
+    "has_lamp": true
+  },
+  {
+    "id": 631,
+    "has_lamp": true
+  },
+  {
+    "id": 632,
+    "has_lamp": false
+  },
+  {
+    "id": 633,
+    "has_lamp": false
+  },
+  {
+    "id": 634,
+    "has_lamp": false
+  },
+  {
+    "id": 635,
+    "has_lamp": true
+  },
+  {
+    "id": 636,
+    "has_lamp": false
+  },
+  {
+    "id": 637,
+    "has_lamp": false
+  },
+  {
+    "id": 638,
+    "has_lamp": false
+  },
+  {
+    "id": 639,
+    "has_lamp": true
+  },
+  {
+    "id": 640,
+    "has_lamp": false
+  },
+  {
+    "id": 641,
+    "has_lamp": true
+  },
+  {
+    "id": 642,
+    "has_lamp": false
+  },
+  {
+    "id": 643,
+    "has_lamp": true
+  },
+  {
+    "id": 644,
+    "has_lamp": true
+  },
+  {
+    "id": 645,
+    "has_lamp": true
+  },
+  {
+    "id": 646,
+    "has_lamp": false
+  },
+  {
+    "id": 647,
+    "has_lamp": true
+  },
+  {
+    "id": 648,
+    "has_lamp": true
+  },
+  {
+    "id": 649,
+    "has_lamp": true
+  },
+  {
+    "id": 650,
+    "has_lamp": false
+  },
+  {
+    "id": 651,
+    "has_lamp": false
+  },
+  {
+    "id": 652,
+    "has_lamp": true
+  },
+  {
+    "id": 653,
+    "has_lamp": false
+  },
+  {
+    "id": 654,
+    "has_lamp": true
+  },
+  {
+    "id": 655,
+    "has_lamp": true
+  },
+  {
+    "id": 656,
+    "has_lamp": false
+  },
+  {
+    "id": 657,
+    "has_lamp": true
+  },
+  {
+    "id": 658,
+    "has_lamp": true
+  },
+  {
+    "id": 659,
+    "has_lamp": true
+  },
+  {
+    "id": 660,
+    "has_lamp": true
+  },
+  {
+    "id": 661,
+    "has_lamp": false
+  },
+  {
+    "id": 662,
+    "has_lamp": true
+  },
+  {
+    "id": 663,
+    "has_lamp": true
+  },
+  {
+    "id": 664,
+    "has_lamp": false
+  },
+  {
+    "id": 665,
+    "has_lamp": true
+  },
+  {
+    "id": 666,
+    "has_lamp": false
+  },
+  {
+    "id": 667,
+    "has_lamp": false
+  },
+  {
+    "id": 668,
+    "has_lamp": true
+  },
+  {
+    "id": 669,
+    "has_lamp": false
+  },
+  {
+    "id": 670,
+    "has_lamp": false
+  },
+  {
+    "id": 671,
+    "has_lamp": false
+  },
+  {
+    "id": 672,
+    "has_lamp": true
+  },
+  {
+    "id": 673,
+    "has_lamp": false
+  },
+  {
+    "id": 674,
+    "has_lamp": false
+  },
+  {
+    "id": 675,
+    "has_lamp": true
+  },
+  {
+    "id": 676,
+    "has_lamp": true
+  },
+  {
+    "id": 677,
+    "has_lamp": true
+  },
+  {
+    "id": 678,
+    "has_lamp": true
+  },
+  {
+    "id": 679,
+    "has_lamp": true
+  },
+  {
+    "id": 680,
+    "has_lamp": false
+  },
+  {
+    "id": 681,
+    "has_lamp": false
+  },
+  {
+    "id": 682,
+    "has_lamp": false
+  },
+  {
+    "id": 683,
+    "has_lamp": true
+  },
+  {
+    "id": 684,
+    "has_lamp": false
+  },
+  {
+    "id": 685,
+    "has_lamp": true
+  },
+  {
+    "id": 686,
+    "has_lamp": true
+  },
+  {
+    "id": 687,
+    "has_lamp": true
+  },
+  {
+    "id": 688,
+    "has_lamp": false
+  },
+  {
+    "id": 689,
+    "has_lamp": true
+  },
+  {
+    "id": 690,
+    "has_lamp": true
+  },
+  {
+    "id": 691,
+    "has_lamp": true
+  },
+  {
+    "id": 692,
+    "has_lamp": true
+  },
+  {
+    "id": 693,
+    "has_lamp": false
+  },
+  {
+    "id": 694,
+    "has_lamp": true
+  },
+  {
+    "id": 695,
+    "has_lamp": true
+  },
+  {
+    "id": 696,
+    "has_lamp": true
+  },
+  {
+    "id": 697,
+    "has_lamp": true
+  },
+  {
+    "id": 698,
+    "has_lamp": false
+  },
+  {
+    "id": 699,
+    "has_lamp": true
+  },
+  {
+    "id": 700,
+    "has_lamp": false
+  },
+  {
+    "id": 701,
+    "has_lamp": false
+  },
+  {
+    "id": 702,
+    "has_lamp": false
+  },
+  {
+    "id": 703,
+    "has_lamp": true
+  },
+  {
+    "id": 704,
+    "has_lamp": true
+  },
+  {
+    "id": 705,
+    "has_lamp": true
+  },
+  {
+    "id": 706,
+    "has_lamp": true
+  },
+  {
+    "id": 707,
+    "has_lamp": false
+  },
+  {
+    "id": 708,
+    "has_lamp": false
+  },
+  {
+    "id": 709,
+    "has_lamp": true
+  },
+  {
+    "id": 710,
+    "has_lamp": true
+  },
+  {
+    "id": 711,
+    "has_lamp": true
+  },
+  {
+    "id": 712,
+    "has_lamp": true
+  },
+  {
+    "id": 713,
+    "has_lamp": true
+  },
+  {
+    "id": 714,
+    "has_lamp": false
+  },
+  {
+    "id": 715,
+    "has_lamp": true
+  },
+  {
+    "id": 716,
+    "has_lamp": false
+  },
+  {
+    "id": 717,
+    "has_lamp": true
+  },
+  {
+    "id": 718,
+    "has_lamp": false
+  },
+  {
+    "id": 719,
+    "has_lamp": true
+  },
+  {
+    "id": 720,
+    "has_lamp": true
+  },
+  {
+    "id": 721,
+    "has_lamp": true
+  },
+  {
+    "id": 722,
+    "has_lamp": false
+  },
+  {
+    "id": 723,
+    "has_lamp": false
+  },
+  {
+    "id": 724,
+    "has_lamp": false
+  },
+  {
+    "id": 725,
+    "has_lamp": true
+  },
+  {
+    "id": 726,
+    "has_lamp": true
+  },
+  {
+    "id": 727,
+    "has_lamp": false
+  },
+  {
+    "id": 728,
+    "has_lamp": false
+  },
+  {
+    "id": 729,
+    "has_lamp": true
+  },
+  {
+    "id": 730,
+    "has_lamp": true
+  },
+  {
+    "id": 731,
+    "has_lamp": true
+  },
+  {
+    "id": 732,
+    "has_lamp": true
+  },
+  {
+    "id": 733,
+    "has_lamp": false
+  },
+  {
+    "id": 734,
+    "has_lamp": true
+  },
+  {
+    "id": 735,
+    "has_lamp": true
+  },
+  {
+    "id": 736,
+    "has_lamp": false
+  },
+  {
+    "id": 737,
+    "has_lamp": true
+  },
+  {
+    "id": 738,
+    "has_lamp": false
+  },
+  {
+    "id": 739,
+    "has_lamp": true
+  },
+  {
+    "id": 740,
+    "has_lamp": true
+  },
+  {
+    "id": 741,
+    "has_lamp": false
+  },
+  {
+    "id": 742,
+    "has_lamp": true
+  },
+  {
+    "id": 743,
+    "has_lamp": true
+  },
+  {
+    "id": 744,
+    "has_lamp": true
+  },
+  {
+    "id": 745,
+    "has_lamp": true
+  },
+  {
+    "id": 746,
+    "has_lamp": true
+  },
+  {
+    "id": 747,
+    "has_lamp": true
+  },
+  {
+    "id": 748,
+    "has_lamp": true
+  },
+  {
+    "id": 749,
+    "has_lamp": false
+  },
+  {
+    "id": 750,
+    "has_lamp": false
+  },
+  {
+    "id": 751,
+    "has_lamp": false
+  },
+  {
+    "id": 752,
+    "has_lamp": true
+  },
+  {
+    "id": 753,
+    "has_lamp": true
+  },
+  {
+    "id": 754,
+    "has_lamp": false
+  },
+  {
+    "id": 755,
+    "has_lamp": true
+  },
+  {
+    "id": 756,
+    "has_lamp": true
+  },
+  {
+    "id": 757,
+    "has_lamp": true
+  },
+  {
+    "id": 758,
+    "has_lamp": true
+  },
+  {
+    "id": 759,
+    "has_lamp": false
+  },
+  {
+    "id": 760,
+    "has_lamp": true
+  },
+  {
+    "id": 761,
+    "has_lamp": true
+  },
+  {
+    "id": 762,
+    "has_lamp": false
+  },
+  {
+    "id": 763,
+    "has_lamp": false
+  },
+  {
+    "id": 764,
+    "has_lamp": false
+  },
+  {
+    "id": 765,
+    "has_lamp": true
+  },
+  {
+    "id": 766,
+    "has_lamp": true
+  },
+  {
+    "id": 767,
+    "has_lamp": true
+  },
+  {
+    "id": 768,
+    "has_lamp": false
+  },
+  {
+    "id": 769,
+    "has_lamp": false
+  },
+  {
+    "id": 770,
+    "has_lamp": true
+  },
+  {
+    "id": 771,
+    "has_lamp": false
+  },
+  {
+    "id": 772,
+    "has_lamp": true
+  },
+  {
+    "id": 773,
+    "has_lamp": false
+  },
+  {
+    "id": 774,
+    "has_lamp": false
+  },
+  {
+    "id": 775,
+    "has_lamp": true
+  },
+  {
+    "id": 776,
+    "has_lamp": true
+  },
+  {
+    "id": 777,
+    "has_lamp": true
+  },
+  {
+    "id": 778,
+    "has_lamp": true
+  },
+  {
+    "id": 779,
+    "has_lamp": true
+  },
+  {
+    "id": 780,
+    "has_lamp": false
+  },
+  {
+    "id": 781,
+    "has_lamp": true
+  },
+  {
+    "id": 782,
+    "has_lamp": false
+  },
+  {
+    "id": 783,
+    "has_lamp": false
+  },
+  {
+    "id": 784,
+    "has_lamp": false
+  },
+  {
+    "id": 785,
+    "has_lamp": true
+  },
+  {
+    "id": 786,
+    "has_lamp": true
+  },
+  {
+    "id": 787,
+    "has_lamp": true
+  },
+  {
+    "id": 788,
+    "has_lamp": true
+  },
+  {
+    "id": 789,
+    "has_lamp": true
+  },
+  {
+    "id": 790,
+    "has_lamp": true
+  },
+  {
+    "id": 791,
+    "has_lamp": true
+  },
+  {
+    "id": 792,
+    "has_lamp": false
+  },
+  {
+    "id": 793,
+    "has_lamp": true
+  },
+  {
+    "id": 794,
+    "has_lamp": true
+  },
+  {
+    "id": 795,
+    "has_lamp": true
+  },
+  {
+    "id": 796,
+    "has_lamp": true
+  },
+  {
+    "id": 797,
+    "has_lamp": false
+  },
+  {
+    "id": 798,
+    "has_lamp": true
+  },
+  {
+    "id": 799,
+    "has_lamp": false
+  },
+  {
+    "id": 800,
+    "has_lamp": true
+  },
+  {
+    "id": 801,
+    "has_lamp": false
+  },
+  {
+    "id": 802,
+    "has_lamp": false
+  },
+  {
+    "id": 803,
+    "has_lamp": false
+  },
+  {
+    "id": 804,
+    "has_lamp": true
+  },
+  {
+    "id": 805,
+    "has_lamp": false
+  },
+  {
+    "id": 806,
+    "has_lamp": false
+  },
+  {
+    "id": 807,
+    "has_lamp": false
+  },
+  {
+    "id": 808,
+    "has_lamp": true
+  },
+  {
+    "id": 809,
+    "has_lamp": true
+  },
+  {
+    "id": 810,
+    "has_lamp": true
+  },
+  {
+    "id": 811,
+    "has_lamp": false
+  },
+  {
+    "id": 812,
+    "has_lamp": true
+  },
+  {
+    "id": 813,
+    "has_lamp": true
+  },
+  {
+    "id": 814,
+    "has_lamp": true
+  },
+  {
+    "id": 815,
+    "has_lamp": true
+  },
+  {
+    "id": 816,
+    "has_lamp": true
+  },
+  {
+    "id": 817,
+    "has_lamp": true
+  },
+  {
+    "id": 818,
+    "has_lamp": true
+  },
+  {
+    "id": 819,
+    "has_lamp": false
+  },
+  {
+    "id": 820,
+    "has_lamp": true
+  },
+  {
+    "id": 821,
+    "has_lamp": false
+  },
+  {
+    "id": 822,
+    "has_lamp": true
+  },
+  {
+    "id": 823,
+    "has_lamp": true
+  },
+  {
+    "id": 824,
+    "has_lamp": true
+  },
+  {
+    "id": 825,
+    "has_lamp": false
+  },
+  {
+    "id": 826,
+    "has_lamp": false
+  },
+  {
+    "id": 827,
+    "has_lamp": false
+  },
+  {
+    "id": 828,
+    "has_lamp": false
+  },
+  {
+    "id": 829,
+    "has_lamp": true
+  },
+  {
+    "id": 830,
+    "has_lamp": true
+  },
+  {
+    "id": 831,
+    "has_lamp": false
+  },
+  {
+    "id": 832,
+    "has_lamp": false
+  },
+  {
+    "id": 833,
+    "has_lamp": true
+  },
+  {
+    "id": 834,
+    "has_lamp": true
+  },
+  {
+    "id": 835,
+    "has_lamp": true
+  },
+  {
+    "id": 836,
+    "has_lamp": false
+  },
+  {
+    "id": 837,
+    "has_lamp": false
+  },
+  {
+    "id": 838,
+    "has_lamp": true
+  },
+  {
+    "id": 839,
+    "has_lamp": true
+  },
+  {
+    "id": 840,
+    "has_lamp": true
+  },
+  {
+    "id": 841,
+    "has_lamp": false
+  },
+  {
+    "id": 842,
+    "has_lamp": true
+  },
+  {
+    "id": 843,
+    "has_lamp": true
+  },
+  {
+    "id": 844,
+    "has_lamp": false
+  },
+  {
+    "id": 845,
+    "has_lamp": false
+  },
+  {
+    "id": 846,
+    "has_lamp": true
+  },
+  {
+    "id": 847,
+    "has_lamp": true
+  },
+  {
+    "id": 848,
+    "has_lamp": true
+  },
+  {
+    "id": 849,
+    "has_lamp": false
+  },
+  {
+    "id": 850,
+    "has_lamp": false
+  },
+  {
+    "id": 851,
+    "has_lamp": false
+  },
+  {
+    "id": 852,
+    "has_lamp": false
+  },
+  {
+    "id": 853,
+    "has_lamp": true
+  },
+  {
+    "id": 854,
+    "has_lamp": false
+  },
+  {
+    "id": 855,
+    "has_lamp": false
+  },
+  {
+    "id": 856,
+    "has_lamp": true
+  },
+  {
+    "id": 857,
+    "has_lamp": true
+  },
+  {
+    "id": 858,
+    "has_lamp": true
+  },
+  {
+    "id": 860,
+    "has_lamp": true
+  },
+  {
+    "id": 861,
+    "has_lamp": true
+  },
+  {
+    "id": 862,
+    "has_lamp": true
+  },
+  {
+    "id": 863,
+    "has_lamp": true
+  },
+  {
+    "id": 864,
+    "has_lamp": true
+  },
+  {
+    "id": 865,
+    "has_lamp": true
+  },
+  {
+    "id": 866,
+    "has_lamp": true
+  },
+  {
+    "id": 867,
+    "has_lamp": true
+  },
+  {
+    "id": 868,
+    "has_lamp": true
+  },
+  {
+    "id": 869,
+    "has_lamp": true
+  },
+  {
+    "id": 870,
+    "has_lamp": false
+  },
+  {
+    "id": 871,
+    "has_lamp": true
+  },
+  {
+    "id": 872,
+    "has_lamp": false
+  },
+  {
+    "id": 873,
+    "has_lamp": true
+  },
+  {
+    "id": 874,
+    "has_lamp": true
+  },
+  {
+    "id": 875,
+    "has_lamp": true
+  },
+  {
+    "id": 876,
+    "has_lamp": true
+  },
+  {
+    "id": 877,
+    "has_lamp": true
+  },
+  {
+    "id": 878,
+    "has_lamp": true
+  },
+  {
+    "id": 879,
+    "has_lamp": false
+  },
+  {
+    "id": 880,
+    "has_lamp": true
+  },
+  {
+    "id": 881,
+    "has_lamp": true
+  },
+  {
+    "id": 882,
+    "has_lamp": false
+  },
+  {
+    "id": 884,
+    "has_lamp": true
+  },
+  {
+    "id": 885,
+    "has_lamp": true
+  },
+  {
+    "id": 886,
+    "has_lamp": true
+  },
+  {
+    "id": 887,
+    "has_lamp": true
+  },
+  {
+    "id": 888,
+    "has_lamp": true
+  },
+  {
+    "id": 889,
+    "has_lamp": false
+  },
+  {
+    "id": 890,
+    "has_lamp": false
+  },
+  {
+    "id": 891,
+    "has_lamp": false
+  },
+  {
+    "id": 892,
+    "has_lamp": false
+  },
+  {
+    "id": 893,
+    "has_lamp": false
+  },
+  {
+    "id": 894,
+    "has_lamp": false
+  },
+  {
+    "id": 895,
+    "has_lamp": false
+  },
+  {
+    "id": 896,
+    "has_lamp": true
+  },
+  {
+    "id": 897,
+    "has_lamp": false
+  },
+  {
+    "id": 898,
+    "has_lamp": true
+  },
+  {
+    "id": 899,
+    "has_lamp": true
+  },
+  {
+    "id": 900,
+    "has_lamp": true
+  },
+  {
+    "id": 901,
+    "has_lamp": false
+  },
+  {
+    "id": 902,
+    "has_lamp": false
+  },
+  {
+    "id": 903,
+    "has_lamp": true
+  },
+  {
+    "id": 904,
+    "has_lamp": false
+  },
+  {
+    "id": 905,
+    "has_lamp": true
+  },
+  {
+    "id": 906,
+    "has_lamp": true
+  },
+  {
+    "id": 907,
+    "has_lamp": false
+  },
+  {
+    "id": 908,
+    "has_lamp": false
+  },
+  {
+    "id": 909,
+    "has_lamp": true
+  },
+  {
+    "id": 910,
+    "has_lamp": false
+  },
+  {
+    "id": 911,
+    "has_lamp": true
+  },
+  {
+    "id": 912,
+    "has_lamp": true
+  },
+  {
+    "id": 913,
+    "has_lamp": false
+  },
+  {
+    "id": 914,
+    "has_lamp": true
+  },
+  {
+    "id": 915,
+    "has_lamp": false
+  },
+  {
+    "id": 916,
+    "has_lamp": true
+  },
+  {
+    "id": 917,
+    "has_lamp": false
+  },
+  {
+    "id": 918,
+    "has_lamp": true
+  },
+  {
+    "id": 919,
+    "has_lamp": true
+  },
+  {
+    "id": 920,
+    "has_lamp": false
+  },
+  {
+    "id": 921,
+    "has_lamp": true
+  },
+  {
+    "id": 922,
+    "has_lamp": false
+  },
+  {
+    "id": 923,
+    "has_lamp": true
+  },
+  {
+    "id": 924,
+    "has_lamp": true
+  },
+  {
+    "id": 925,
+    "has_lamp": true
+  },
+  {
+    "id": 926,
+    "has_lamp": false
+  },
+  {
+    "id": 927,
+    "has_lamp": true
+  },
+  {
+    "id": 928,
+    "has_lamp": false
+  },
+  {
+    "id": 929,
+    "has_lamp": false
+  },
+  {
+    "id": 930,
+    "has_lamp": false
+  },
+  {
+    "id": 931,
+    "has_lamp": true
+  },
+  {
+    "id": 932,
+    "has_lamp": true
+  },
+  {
+    "id": 933,
+    "has_lamp": true
+  },
+  {
+    "id": 934,
+    "has_lamp": true
+  },
+  {
+    "id": 935,
+    "has_lamp": true
+  },
+  {
+    "id": 936,
+    "has_lamp": true
+  },
+  {
+    "id": 937,
+    "has_lamp": false
+  },
+  {
+    "id": 938,
+    "has_lamp": false
+  },
+  {
+    "id": 939,
+    "has_lamp": true
+  },
+  {
+    "id": 940,
+    "has_lamp": true
+  },
+  {
+    "id": 941,
+    "has_lamp": false
+  },
+  {
+    "id": 942,
+    "has_lamp": true
+  },
+  {
+    "id": 943,
+    "has_lamp": true
+  },
+  {
+    "id": 944,
+    "has_lamp": false
+  },
+  {
+    "id": 945,
+    "has_lamp": true
+  },
+  {
+    "id": 946,
+    "has_lamp": false
+  },
+  {
+    "id": 947,
+    "has_lamp": false
+  },
+  {
+    "id": 948,
+    "has_lamp": true
+  },
+  {
+    "id": 949,
+    "has_lamp": false
+  },
+  {
+    "id": 950,
+    "has_lamp": true
+  },
+  {
+    "id": 951,
+    "has_lamp": false
+  },
+  {
+    "id": 952,
+    "has_lamp": false
+  },
+  {
+    "id": 953,
+    "has_lamp": false
+  },
+  {
+    "id": 954,
+    "has_lamp": true
+  },
+  {
+    "id": 955,
+    "has_lamp": true
+  },
+  {
+    "id": 956,
+    "has_lamp": false
+  },
+  {
+    "id": 957,
+    "has_lamp": false
+  },
+  {
+    "id": 958,
+    "has_lamp": false
+  },
+  {
+    "id": 959,
+    "has_lamp": false
+  },
+  {
+    "id": 960,
+    "has_lamp": true
+  },
+  {
+    "id": 961,
+    "has_lamp": true
+  },
+  {
+    "id": 962,
+    "has_lamp": false
+  },
+  {
+    "id": 963,
+    "has_lamp": true
+  },
+  {
+    "id": 964,
+    "has_lamp": false
+  },
+  {
+    "id": 965,
+    "has_lamp": true
+  },
+  {
+    "id": 966,
+    "has_lamp": true
+  },
+  {
+    "id": 967,
+    "has_lamp": true
+  },
+  {
+    "id": 968,
+    "has_lamp": true
+  },
+  {
+    "id": 969,
+    "has_lamp": false
+  },
+  {
+    "id": 970,
+    "has_lamp": false
+  },
+  {
+    "id": 972,
+    "has_lamp": false
+  },
+  {
+    "id": 973,
+    "has_lamp": true
+  },
+  {
+    "id": 974,
+    "has_lamp": false
+  },
+  {
+    "id": 975,
+    "has_lamp": true
+  },
+  {
+    "id": 976,
+    "has_lamp": true
+  },
+  {
+    "id": 977,
+    "has_lamp": true
+  },
+  {
+    "id": 978,
+    "has_lamp": true
+  },
+  {
+    "id": 979,
+    "has_lamp": true
+  },
+  {
+    "id": 980,
+    "has_lamp": false
+  },
+  {
+    "id": 981,
+    "has_lamp": true
+  }
+]

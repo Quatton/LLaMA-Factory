@@ -1,0 +1,9872 @@
+[
+  {
+    "id": 0,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 2,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 3,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 4,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 5,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 6,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 7,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 8,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 9,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 10,
+    "has_lamp": true,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 11,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 12,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 13,
+    "has_lamp": true,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 14,
+    "has_lamp": false,
+    "ward": "Kawasaki City Takatsu Ward"
+  },
+  {
+    "id": 15,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 16,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 17,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 18,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 19,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 20,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 21,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 22,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 23,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 24,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 25,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 26,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 27,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 28,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 29,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 30,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 31,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 32,
+    "has_lamp": false,
+    "ward": "Chūō"
+  },
+  {
+    "id": 33,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 34,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 35,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 36,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 37,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 38,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 39,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 40,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 41,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 42,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 43,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 44,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 45,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 46,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 47,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 48,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 49,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 50,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 51,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 52,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 53,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 54,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 55,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 56,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 57,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 58,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 59,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 60,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 61,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 62,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 63,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 64,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 65,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 66,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 67,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 68,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 69,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 70,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 71,
+    "has_lamp": true,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 72,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 73,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 74,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 75,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 76,
+    "has_lamp": true,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 77,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 78,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 79,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 80,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 81,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 82,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 83,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 84,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 85,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 86,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 87,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 88,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 89,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 90,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 91,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 92,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 93,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 94,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 95,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 96,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 97,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 98,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 99,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 100,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 101,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 102,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 103,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 104,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 105,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 106,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 107,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 108,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 109,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 110,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 111,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 112,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 113,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 114,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 115,
+    "has_lamp": true,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 116,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 117,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 118,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 119,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 120,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 121,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 122,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 123,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 124,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 125,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 126,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 127,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 128,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 129,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 130,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 131,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 132,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 133,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 134,
+    "has_lamp": false,
+    "ward": "Kitaku"
+  },
+  {
+    "id": 135,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 136,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 137,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 138,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 139,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 140,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 141,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 142,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 143,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 144,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 145,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 146,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 147,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 148,
+    "has_lamp": false,
+    "ward": "Kawasaki-Shi Saiwai-Ku"
+  },
+  {
+    "id": 149,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 150,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 151,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 152,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 153,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 154,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 155,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 156,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 157,
+    "has_lamp": true,
+    "ward": "Taito"
+  },
+  {
+    "id": 158,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 159,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 160,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 161,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 162,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 163,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 164,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 165,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 166,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 167,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 168,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 169,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 170,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 171,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 172,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 173,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 174,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 175,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 176,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 177,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 178,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 179,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 180,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 181,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 182,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 183,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 184,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 185,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 186,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 187,
+    "has_lamp": true,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 188,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 189,
+    "has_lamp": true,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 190,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 191,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 192,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 193,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 194,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 195,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 196,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 197,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 198,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 199,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 200,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 201,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 202,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 203,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 204,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 205,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 206,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 207,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 208,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 209,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 210,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 211,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 212,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 213,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 214,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 215,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 216,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 217,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 218,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 219,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 220,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 221,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 222,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 223,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 224,
+    "has_lamp": true,
+    "ward": "Chuo"
+  },
+  {
+    "id": 225,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 226,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 227,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 228,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 229,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 230,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 231,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 232,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 233,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 234,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 235,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 236,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 237,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 238,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 239,
+    "has_lamp": true,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 240,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 241,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 242,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 243,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 244,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 245,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 246,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 247,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 248,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 249,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 250,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 251,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 252,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 253,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 254,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 255,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 256,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 257,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 258,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 259,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 260,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 261,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 262,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 263,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 264,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 265,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 266,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 267,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 268,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 269,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 270,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 271,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 272,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 273,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 274,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 275,
+    "has_lamp": true,
+    "ward": "Chuo"
+  },
+  {
+    "id": 276,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 277,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 278,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 279,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 280,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 281,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 282,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 283,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 284,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 285,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 286,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 287,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 288,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 289,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 290,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 291,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 292,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 293,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 294,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 295,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 296,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 297,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 298,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 299,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 300,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 301,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 302,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 303,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 304,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 305,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 306,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 307,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 308,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 309,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 310,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 311,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 312,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 313,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 314,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 315,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 316,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 317,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 318,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 319,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 320,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 321,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 322,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 323,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 324,
+    "has_lamp": true,
+    "ward": "Nakano"
+  },
+  {
+    "id": 325,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 326,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 327,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 328,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 329,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 330,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 331,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 332,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 333,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 334,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 335,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 336,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 337,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 338,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 339,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 340,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 341,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 342,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 343,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 344,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 345,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 346,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 347,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 348,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 349,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 350,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 351,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 352,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 353,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 354,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 355,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 356,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 357,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 358,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 359,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 360,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 361,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 362,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 363,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 364,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 365,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 366,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 367,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 368,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 369,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 370,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 371,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 372,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 373,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 374,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 375,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 376,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 377,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 378,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 379,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 380,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 381,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 382,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 383,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 384,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 385,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 386,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 387,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 388,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 389,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 390,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 391,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 392,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 393,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 394,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 395,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 396,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 397,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 398,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 399,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 400,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 401,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 402,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 403,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 404,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 405,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 406,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 407,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 408,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 409,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 410,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 411,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 412,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 413,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 414,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 415,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 416,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 417,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 418,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 420,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 421,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 422,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 423,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 424,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 425,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 426,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 427,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 428,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 429,
+    "has_lamp": true,
+    "ward": "Nakano"
+  },
+  {
+    "id": 430,
+    "has_lamp": true,
+    "ward": "Nakano"
+  },
+  {
+    "id": 431,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 432,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 433,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 434,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 435,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 436,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 437,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 438,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 439,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 440,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 441,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 442,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 443,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 444,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 445,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 446,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 447,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 448,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 449,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 450,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 451,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 452,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 453,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 454,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 455,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 456,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 457,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 458,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 459,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 460,
+    "has_lamp": true,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 461,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 462,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 463,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 464,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 465,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 466,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 467,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 468,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 469,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 470,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 471,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 472,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 473,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 474,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 475,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 476,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 477,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 478,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 479,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 480,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 481,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 482,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 483,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 484,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 485,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 487,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 488,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 489,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 490,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 491,
+    "has_lamp": false,
+    "ward": "Kawasaki"
+  },
+  {
+    "id": 492,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 493,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 494,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 495,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 496,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 497,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 498,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 499,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 500,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 501,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 502,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 503,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 504,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 505,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 506,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 507,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 508,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 509,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 510,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 511,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 512,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 513,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 514,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 515,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 516,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 517,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 518,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 520,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 521,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 522,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 523,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 524,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 525,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 526,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 527,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 528,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 529,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 530,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 531,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 532,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 533,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 534,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 535,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 536,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 537,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 538,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 539,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 540,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 541,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 542,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 543,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 544,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 545,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 546,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 547,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 548,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 549,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 550,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 551,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 552,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 553,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 554,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 555,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 556,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 557,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 558,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 559,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 560,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 561,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 562,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 563,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 564,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 565,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 566,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 567,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 568,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 569,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 570,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 571,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 572,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 573,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 574,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 575,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 576,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 577,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 578,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 579,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 580,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 581,
+    "has_lamp": true,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 582,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 583,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 584,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 585,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 586,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 587,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 588,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 589,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 590,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 591,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 592,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 593,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 594,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 595,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 596,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 597,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 598,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 599,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 600,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 601,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 602,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 603,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 604,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 605,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 606,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 607,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 608,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 609,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 610,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 611,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 612,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 613,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 614,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 615,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 616,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 617,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 618,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 619,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 620,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 621,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 622,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 623,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 624,
+    "has_lamp": true,
+    "ward": "Taito"
+  },
+  {
+    "id": 625,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 626,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 627,
+    "has_lamp": true,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 628,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 629,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 630,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 631,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 632,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 633,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 634,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 636,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 637,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 638,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 639,
+    "has_lamp": true,
+    "ward": "Taito"
+  },
+  {
+    "id": 640,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 641,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 642,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 643,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 644,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 645,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 646,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 647,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 648,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 649,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 650,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 651,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 652,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 653,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 654,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 655,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 656,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 657,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 658,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 659,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 660,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 661,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 662,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 663,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 664,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 665,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 666,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 667,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 668,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 669,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 670,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 671,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 672,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 673,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 674,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 675,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 676,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 677,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 678,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 679,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 680,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 681,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 682,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 683,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 684,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 685,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 686,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 687,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 688,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 689,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 690,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 691,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 692,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 693,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 694,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 695,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 696,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 697,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 698,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 699,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 700,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 701,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 702,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 703,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 704,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 705,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 706,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 707,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 708,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 709,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 710,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 711,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 712,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 713,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 714,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 715,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 716,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 717,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 718,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 719,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 720,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 721,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 722,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 723,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 724,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 725,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 726,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 727,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 728,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 729,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 730,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 731,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 732,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 733,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 734,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 735,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 736,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 737,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 738,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 739,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 740,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 741,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 742,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 743,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 744,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 745,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 746,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 747,
+    "has_lamp": true,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 748,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 749,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 750,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 751,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 752,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 753,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 754,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 755,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 756,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 757,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 758,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 759,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 760,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 761,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 762,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 763,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 764,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 765,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 766,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 768,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 769,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 770,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 771,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 772,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 773,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 774,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 776,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 777,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 778,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 779,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 780,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 781,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 782,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 783,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 784,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 785,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 786,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 787,
+    "has_lamp": true,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 788,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 789,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 790,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 791,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 792,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 793,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 794,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 795,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 796,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 797,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 798,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 799,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 800,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 801,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 802,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 803,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 804,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 805,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 806,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 807,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 808,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 809,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 810,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 811,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 812,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 813,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 814,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 815,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 816,
+    "has_lamp": true,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 817,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 818,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 819,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 820,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 821,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 822,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 823,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 824,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 825,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 826,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 827,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 828,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 829,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 830,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 831,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 832,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 833,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 834,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 835,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 836,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 837,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 838,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 839,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 840,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 841,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 842,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 843,
+    "has_lamp": true,
+    "ward": "Sumida"
+  },
+  {
+    "id": 844,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 845,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 846,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 847,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 848,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 849,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 850,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 851,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 852,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 853,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 854,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 855,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 856,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 857,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 858,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 859,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 860,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 861,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 862,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 863,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 864,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 865,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 866,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 867,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 868,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 869,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 870,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 871,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 872,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 873,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 874,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 875,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 876,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 877,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 878,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 879,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 880,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 881,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 882,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 883,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 884,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 885,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 886,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 887,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 888,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 889,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 890,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 891,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 892,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 893,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 894,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 895,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 896,
+    "has_lamp": true,
+    "ward": "Meguro"
+  },
+  {
+    "id": 897,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 898,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 899,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 900,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 901,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 902,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 903,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 904,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 905,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 906,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 907,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 908,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 909,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 910,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 911,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 912,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 913,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 914,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 915,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 916,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 917,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 918,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 919,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 920,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 921,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 922,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 923,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 924,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 925,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 926,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 927,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 928,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 929,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 930,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 931,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 932,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 933,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 934,
+    "has_lamp": true,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 935,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 936,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 937,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 938,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 939,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 940,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 941,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 942,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 943,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 944,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 945,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 946,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 947,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 948,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 949,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 950,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 951,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 952,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 953,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 954,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 955,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 956,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 957,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 958,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 959,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 960,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 961,
+    "has_lamp": true,
+    "ward": "Meguro"
+  },
+  {
+    "id": 962,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 963,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 964,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 965,
+    "has_lamp": true,
+    "ward": "Chuo"
+  },
+  {
+    "id": 966,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 967,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 968,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 969,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 970,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 971,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 972,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 973,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 974,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 975,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 976,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 977,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 978,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 979,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 980,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 981,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 982,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 984,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 985,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 986,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 987,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 988,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 989,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 990,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 991,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 992,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 993,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 994,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 995,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 996,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 998,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 999,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1000,
+    "has_lamp": true,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1001,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1002,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1003,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1004,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1005,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1006,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1007,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1008,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1009,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1010,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1011,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1012,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1013,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1014,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1015,
+    "has_lamp": true,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1016,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1017,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1018,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1019,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1020,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1021,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1022,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1023,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1024,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1025,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1026,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1027,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1028,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1029,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1030,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1031,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1032,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1033,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1034,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1035,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1036,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1037,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1038,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1039,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1040,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1042,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1043,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1045,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1046,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1047,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1048,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1049,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1050,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1051,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1052,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1053,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1054,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1055,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1056,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1057,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1058,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1059,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1060,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1061,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1062,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1063,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1064,
+    "has_lamp": true,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1066,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1067,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1068,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1069,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1070,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1071,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1072,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1073,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1074,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1075,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1076,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1077,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1078,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1079,
+    "has_lamp": true,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1080,
+    "has_lamp": true,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1081,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1082,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1083,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1084,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1085,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1086,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1087,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1088,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1089,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1090,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1091,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1092,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1093,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1094,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1095,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1096,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1097,
+    "has_lamp": true,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1098,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1099,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1100,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1101,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1103,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1104,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1105,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1106,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1107,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1108,
+    "has_lamp": false,
+    "ward": "Kawasaki Takatsu"
+  },
+  {
+    "id": 1109,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1110,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1111,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1112,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1113,
+    "has_lamp": true,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1114,
+    "has_lamp": true,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1115,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1116,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1117,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1118,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1119,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1121,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1122,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1123,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1124,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1125,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1126,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1127,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1128,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1129,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1130,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1131,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1132,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1133,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1134,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1135,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1136,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1137,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1138,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1139,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1140,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1141,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1142,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1143,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1144,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1145,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1146,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1147,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1148,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1149,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1150,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1151,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1152,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1153,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1154,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1155,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1156,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1157,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1158,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1159,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1160,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1161,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1162,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1163,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1164,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1165,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1166,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1167,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1168,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1169,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1170,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1171,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1172,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1173,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1174,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1175,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1176,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1177,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1178,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1179,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1180,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1181,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1182,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1183,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1184,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1185,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1186,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1187,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1188,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1189,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1190,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 1191,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1192,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1193,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1194,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1195,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1196,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1197,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1198,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1199,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1200,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1201,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1202,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1203,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1204,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1205,
+    "has_lamp": true,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1206,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1207,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1208,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1209,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1210,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1211,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1212,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1213,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1214,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1215,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1216,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1217,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1218,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1219,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1220,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1221,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1222,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1223,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1224,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1225,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1226,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1227,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1228,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1229,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1230,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1231,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1232,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1233,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1234,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1235,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1236,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1237,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1238,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1239,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1240,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1241,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1242,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1243,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1244,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1245,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1246,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1247,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1248,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1249,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1250,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1251,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1252,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1253,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1254,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1255,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1256,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1257,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1258,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1259,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1260,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1261,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1262,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 1263,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1264,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1265,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1266,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1267,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1268,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1269,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1270,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1271,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1272,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1273,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1274,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1275,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1276,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1277,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1278,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1279,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1280,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1281,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1282,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1283,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1284,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1285,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1286,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1287,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1288,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1289,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1290,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1291,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1292,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1293,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1294,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1295,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1296,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1297,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1298,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1299,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1300,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1301,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1302,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1303,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1304,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1305,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1306,
+    "has_lamp": true,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1307,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1308,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1309,
+    "has_lamp": true,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1310,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1311,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1312,
+    "has_lamp": true,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1313,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1314,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1315,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1316,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1317,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1318,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1319,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1320,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1321,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1322,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1323,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1324,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1325,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1326,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1327,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1328,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1329,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1330,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1331,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1332,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1333,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1334,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1335,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1337,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1338,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1339,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1340,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1341,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1342,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1343,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1344,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1345,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1346,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1347,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1348,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1349,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1350,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1351,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1352,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1353,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1354,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1355,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1356,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1357,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1358,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1359,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1360,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1361,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1362,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1363,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1364,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1365,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1366,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1367,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1368,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1369,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1370,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1371,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1372,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1373,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1374,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1375,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1376,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1377,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1378,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 1379,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1380,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1381,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1382,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1383,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1384,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1385,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1386,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1387,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1388,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1389,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1390,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1391,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1392,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1393,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1394,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1395,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1396,
+    "has_lamp": true,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1397,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1398,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1399,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1400,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1401,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1402,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1403,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1404,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1405,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1406,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1407,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1408,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1409,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1410,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1411,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1412,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1413,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1414,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1415,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1416,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1417,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1418,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1419,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1420,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1421,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1422,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1423,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1424,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1425,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1426,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1427,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1428,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1429,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1430,
+    "has_lamp": true,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1431,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1432,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1433,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1434,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1435,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1436,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1437,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1438,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1439,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1440,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1441,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1443,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1444,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1445,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1446,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1447,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1448,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1449,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1451,
+    "has_lamp": true,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1452,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1453,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1454,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1455,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1456,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1457,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1458,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1459,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1460,
+    "has_lamp": true,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1461,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1462,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1463,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1464,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1465,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1466,
+    "has_lamp": true,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1467,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1468,
+    "has_lamp": true,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1469,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1470,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1471,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1472,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1473,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1474,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1475,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1476,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1478,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1479,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1480,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1482,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1483,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1484,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1485,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1486,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1487,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1488,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1489,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1490,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1491,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1492,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1493,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1494,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1495,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1496,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1497,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1498,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1499,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1500,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1501,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1502,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1503,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1504,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 1505,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1506,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1507,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1508,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1509,
+    "has_lamp": true,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1510,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1511,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1512,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1513,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1514,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1515,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1516,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1517,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1518,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1519,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1520,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1521,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1522,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1523,
+    "has_lamp": false,
+    "ward": "Ichikawa"
+  },
+  {
+    "id": 1524,
+    "has_lamp": true,
+    "ward": "Taito"
+  },
+  {
+    "id": 1525,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1526,
+    "has_lamp": true,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1527,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1528,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1529,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1530,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1531,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1532,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1533,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1534,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1535,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1536,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1537,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1538,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1539,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1540,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1541,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1542,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1543,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1544,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1545,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1546,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1547,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1548,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1549,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1550,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1551,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1552,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1553,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1555,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1556,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1557,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1558,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1559,
+    "has_lamp": true,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1560,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1561,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1562,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1563,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1564,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1565,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1566,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1567,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1568,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1569,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1570,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1571,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1572,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1573,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1574,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1575,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1576,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1577,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1578,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1579,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1580,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1582,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1583,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1584,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1585,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1586,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1587,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1588,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1589,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1590,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1591,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1592,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1593,
+    "has_lamp": true,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1594,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1595,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1596,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1597,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1599,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1600,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1601,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1602,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1603,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1604,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1605,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1606,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1607,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1608,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1609,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1610,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1611,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1612,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1613,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1615,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1616,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1617,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1618,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1619,
+    "has_lamp": true,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1621,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1622,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1623,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1624,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1625,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1626,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1627,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1628,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1629,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1630,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1631,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1632,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1633,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1634,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 1635,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1636,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1637,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1638,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1639,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1640,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1641,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1642,
+    "has_lamp": true,
+    "ward": "Taito"
+  },
+  {
+    "id": 1643,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1644,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1645,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1646,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1647,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1648,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1649,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1650,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1651,
+    "has_lamp": true,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1652,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1653,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1654,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1655,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1656,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1657,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1658,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1659,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1660,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1661,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1662,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1663,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1664,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1665,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1666,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1667,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1668,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1669,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1670,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1671,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1672,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1673,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1674,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 1675,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1676,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1677,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1678,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 1679,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1680,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1681,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1682,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1683,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1684,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1685,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1686,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1687,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1689,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1690,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1691,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1692,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1693,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1694,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1695,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1696,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1697,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1698,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1699,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1700,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1701,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1702,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1703,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1704,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1705,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1706,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1707,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1708,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1709,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1710,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1711,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1712,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1713,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1714,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1715,
+    "has_lamp": true,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1716,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1717,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1718,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1719,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1720,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1721,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1722,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1723,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1724,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1725,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1726,
+    "has_lamp": false,
+    "ward": "Kawaguchi"
+  },
+  {
+    "id": 1727,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1728,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1729,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1730,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1731,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1732,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1733,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1734,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1735,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1736,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1737,
+    "has_lamp": true,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1738,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1739,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1740,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1741,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1742,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1743,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1744,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1745,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1746,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1747,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1748,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1749,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1750,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1751,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1752,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1753,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1754,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1755,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1756,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1757,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1758,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1759,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1760,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1761,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1762,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1763,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1764,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1765,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1766,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1767,
+    "has_lamp": false,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1768,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1769,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1770,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1771,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1772,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1773,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1774,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1775,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1776,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1777,
+    "has_lamp": true,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1778,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1779,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1780,
+    "has_lamp": false,
+    "ward": "Kawasaki Saiwai"
+  },
+  {
+    "id": 1781,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1782,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1783,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1784,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1785,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1786,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1787,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1788,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1789,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1790,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1791,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1792,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1793,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1794,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1795,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1796,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1797,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1798,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1799,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1800,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1801,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1802,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1803,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1804,
+    "has_lamp": true,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1805,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1806,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1807,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1808,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1809,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1810,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1811,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1813,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1814,
+    "has_lamp": true,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1815,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1816,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1817,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1818,
+    "has_lamp": true,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1819,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1820,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1821,
+    "has_lamp": true,
+    "ward": "Taito"
+  },
+  {
+    "id": 1822,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1823,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1824,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1825,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1826,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1827,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1828,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1829,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1830,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1831,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1832,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1833,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1834,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1835,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1836,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1837,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1838,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1839,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1840,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1841,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1842,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1843,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1844,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1845,
+    "has_lamp": true,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1846,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1847,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1848,
+    "has_lamp": true,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1849,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1850,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1851,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1852,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1853,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1854,
+    "has_lamp": false,
+    "ward": "Taito"
+  },
+  {
+    "id": 1855,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1856,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1857,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1858,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1859,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1860,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1861,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1862,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1863,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1864,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1865,
+    "has_lamp": true,
+    "ward": "Bunkyo"
+  },
+  {
+    "id": 1866,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1867,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1868,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1869,
+    "has_lamp": true,
+    "ward": "Minato"
+  },
+  {
+    "id": 1870,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1871,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1872,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1873,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1874,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1875,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1876,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1877,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1878,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1879,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1880,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1881,
+    "has_lamp": true,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1882,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1883,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1884,
+    "has_lamp": true,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1885,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1886,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1887,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1888,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1889,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1890,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1891,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1892,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1893,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1894,
+    "has_lamp": false,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1895,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1896,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1897,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1898,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1899,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1900,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1901,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1902,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1903,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1904,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1905,
+    "has_lamp": true,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1906,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1907,
+    "has_lamp": true,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1908,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1909,
+    "has_lamp": true,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1910,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1911,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1912,
+    "has_lamp": false,
+    "ward": "Chuo"
+  },
+  {
+    "id": 1913,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1914,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1915,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1916,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1917,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1918,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1919,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1920,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1921,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1922,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1923,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1924,
+    "has_lamp": true,
+    "ward": "Sumida"
+  },
+  {
+    "id": 1925,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1926,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1927,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1928,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1929,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1930,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1931,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1932,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1933,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1934,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1935,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1936,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1937,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1938,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1939,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 1940,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1941,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1942,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1943,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1944,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1945,
+    "has_lamp": false,
+    "ward": "Shinagawa"
+  },
+  {
+    "id": 1946,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1947,
+    "has_lamp": false,
+    "ward": "Minato"
+  },
+  {
+    "id": 1948,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1949,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1951,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1952,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1953,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1954,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1955,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1956,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1957,
+    "has_lamp": false,
+    "ward": "Kawasaki Takatsu"
+  },
+  {
+    "id": 1958,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1959,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1960,
+    "has_lamp": false,
+    "ward": "Chiyoda"
+  },
+  {
+    "id": 1961,
+    "has_lamp": false,
+    "ward": "Adachi"
+  },
+  {
+    "id": 1962,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1963,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1964,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1965,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1966,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1967,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1968,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1969,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1970,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1971,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1972,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1973,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1974,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
+    "id": 1975,
+    "has_lamp": false,
+    "ward": "Kita"
+  },
+  {
+    "id": 1976,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
+    "id": 1977,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1978,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
+    "id": 1979,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1980,
+    "has_lamp": false,
+    "ward": "Shibuya"
+  },
+  {
+    "id": 1981,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1982,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
+    "id": 1983,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
+    "id": 1984,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1985,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1986,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1987,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
+    "id": 1988,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1989,
+    "has_lamp": false,
+    "ward": "Shinjuku"
+  },
+  {
+    "id": 1990,
+    "has_lamp": false,
+    "ward": "Koto"
+  },
+  {
+    "id": 1991,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
+    "id": 1992,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1993,
+    "has_lamp": false,
+    "ward": "Ota"
+  },
+  {
+    "id": 1994,
+    "has_lamp": false,
+    "ward": "Arakawa"
+  },
+  {
+    "id": 1995,
+    "has_lamp": false,
+    "ward": "Nerima"
+  },
+  {
+    "id": 1996,
+    "has_lamp": true,
+    "ward": "Ota"
+  },
+  {
+    "id": 1997,
+    "has_lamp": true,
+    "ward": "Kita"
+  },
+  {
+    "id": 1998,
+    "has_lamp": false,
+    "ward": "Edogawa"
+  },
+  {
+    "id": 1999,
+    "has_lamp": false,
+    "ward": "Adachi"
+  }
+]
