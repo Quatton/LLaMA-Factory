@@ -2095,6 +2095,11 @@
     "ward": "Edogawa"
   },
   {
+    "id": 419,
+    "has_lamp": false,
+    "ward": "Itabashi"
+  },
+  {
     "id": 420,
     "has_lamp": false,
     "ward": "Meguro"
@@ -2425,6 +2430,11 @@
     "ward": "Koto"
   },
   {
+    "id": 486,
+    "has_lamp": false,
+    "ward": "Meguro"
+  },
+  {
     "id": 487,
     "has_lamp": false,
     "ward": "Nakano"
@@ -2583,6 +2593,11 @@
     "id": 518,
     "has_lamp": false,
     "ward": "Koto"
+  },
+  {
+    "id": 519,
+    "has_lamp": true,
+    "ward": "Kita"
   },
   {
     "id": 520,
@@ -3158,6 +3173,11 @@
     "id": 634,
     "has_lamp": false,
     "ward": "Ota"
+  },
+  {
+    "id": 635,
+    "has_lamp": false,
+    "ward": "Koto"
   },
   {
     "id": 636,
@@ -3815,6 +3835,11 @@
     "ward": "Koto"
   },
   {
+    "id": 767,
+    "has_lamp": false,
+    "ward": "Katsushika"
+  },
+  {
     "id": 768,
     "has_lamp": false,
     "ward": "Shinagawa"
@@ -3848,6 +3873,11 @@
     "id": 774,
     "has_lamp": false,
     "ward": "Setagaya"
+  },
+  {
+    "id": 775,
+    "has_lamp": true,
+    "ward": "Edogawa"
   },
   {
     "id": 776,
@@ -4885,6 +4915,11 @@
     "ward": "Sumida"
   },
   {
+    "id": 983,
+    "has_lamp": true,
+    "ward": "Suginami"
+  },
+  {
     "id": 984,
     "has_lamp": false,
     "ward": "Toshima"
@@ -4948,6 +4983,11 @@
     "id": 996,
     "has_lamp": false,
     "ward": "Sumida"
+  },
+  {
+    "id": 997,
+    "has_lamp": false,
+    "ward": "Nakano"
   },
   {
     "id": 998,
@@ -5165,6 +5205,11 @@
     "ward": "Adachi"
   },
   {
+    "id": 1041,
+    "has_lamp": false,
+    "ward": "Nakano"
+  },
+  {
     "id": 1042,
     "has_lamp": false,
     "ward": "Shinagawa"
@@ -5173,6 +5218,11 @@
     "id": 1043,
     "has_lamp": false,
     "ward": "Meguro"
+  },
+  {
+    "id": 1044,
+    "has_lamp": false,
+    "ward": "Suginami"
   },
   {
     "id": 1045,
@@ -5273,6 +5323,11 @@
     "id": 1064,
     "has_lamp": true,
     "ward": "Nakano"
+  },
+  {
+    "id": 1065,
+    "has_lamp": false,
+    "ward": "Shibuya"
   },
   {
     "id": 1066,
@@ -5455,6 +5510,11 @@
     "ward": "Adachi"
   },
   {
+    "id": 1102,
+    "has_lamp": true,
+    "ward": "Shinagawa"
+  },
+  {
     "id": 1103,
     "has_lamp": false,
     "ward": "Setagaya"
@@ -5538,6 +5598,11 @@
     "id": 1119,
     "has_lamp": false,
     "ward": "Koto"
+  },
+  {
+    "id": 1120,
+    "has_lamp": false,
+    "ward": "Setagaya"
   },
   {
     "id": 1121,
@@ -6615,6 +6680,11 @@
     "ward": "Edogawa"
   },
   {
+    "id": 1336,
+    "has_lamp": true,
+    "ward": "Chiyoda"
+  },
+  {
     "id": 1337,
     "has_lamp": false,
     "ward": "Minato"
@@ -7140,6 +7210,11 @@
     "ward": "Koto"
   },
   {
+    "id": 1442,
+    "has_lamp": true,
+    "ward": "Edogawa"
+  },
+  {
     "id": 1443,
     "has_lamp": false,
     "ward": "Kita"
@@ -7173,6 +7248,11 @@
     "id": 1449,
     "has_lamp": false,
     "ward": "Shinagawa"
+  },
+  {
+    "id": 1450,
+    "has_lamp": false,
+    "ward": "Adachi"
   },
   {
     "id": 1451,
@@ -7305,6 +7385,11 @@
     "ward": "Minato"
   },
   {
+    "id": 1477,
+    "has_lamp": true,
+    "ward": "Itabashi"
+  },
+  {
     "id": 1478,
     "has_lamp": false,
     "ward": "Taito"
@@ -7318,6 +7403,11 @@
     "id": 1480,
     "has_lamp": false,
     "ward": "Toshima"
+  },
+  {
+    "id": 1481,
+    "has_lamp": false,
+    "ward": "Shinagawa"
   },
   {
     "id": 1482,
@@ -7680,6 +7770,11 @@
     "ward": "Setagaya"
   },
   {
+    "id": 1554,
+    "has_lamp": false,
+    "ward": "Setagaya"
+  },
+  {
     "id": 1555,
     "has_lamp": false,
     "ward": "Arakawa"
@@ -7810,6 +7905,11 @@
     "ward": "Adachi"
   },
   {
+    "id": 1581,
+    "has_lamp": true,
+    "ward": "Koto"
+  },
+  {
     "id": 1582,
     "has_lamp": false,
     "ward": "Meguro"
@@ -7890,6 +7990,11 @@
     "ward": "Toshima"
   },
   {
+    "id": 1598,
+    "has_lamp": false,
+    "ward": "Suginami"
+  },
+  {
     "id": 1599,
     "has_lamp": false,
     "ward": "Katsushika"
@@ -7965,6 +8070,11 @@
     "ward": "Nakano"
   },
   {
+    "id": 1614,
+    "has_lamp": true,
+    "ward": "Setagaya"
+  },
+  {
     "id": 1615,
     "has_lamp": false,
     "ward": "Taito"
@@ -7988,6 +8098,11 @@
     "id": 1619,
     "has_lamp": true,
     "ward": "Chuo"
+  },
+  {
+    "id": 1620,
+    "has_lamp": false,
+    "ward": "Nakano"
   },
   {
     "id": 1621,
@@ -8323,6 +8438,11 @@
     "id": 1687,
     "has_lamp": true,
     "ward": "Ota"
+  },
+  {
+    "id": 1688,
+    "has_lamp": false,
+    "ward": "Sumida"
   },
   {
     "id": 1689,
@@ -8936,6 +9056,11 @@
   },
   {
     "id": 1811,
+    "has_lamp": false,
+    "ward": "Toshima"
+  },
+  {
+    "id": 1812,
     "has_lamp": false,
     "ward": "Toshima"
   },
@@ -9623,6 +9748,11 @@
     "id": 1949,
     "has_lamp": false,
     "ward": "Shibuya"
+  },
+  {
+    "id": 1950,
+    "has_lamp": true,
+    "ward": "Meguro"
   },
   {
     "id": 1951,
