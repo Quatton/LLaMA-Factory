@@ -1,7 +1,7 @@
 import json
 
 
-with open("data/lamp_reguessing_results.json") as f:
+with open("data/lamp_reguessing_results_small.json") as f:
     data = json.load(f)
     results = data
 
