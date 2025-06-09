@@ -30,14 +30,22 @@ async def eval_main():
 
     existing_results = {}
 
+    with open("data/eval_no_cheat.json") as f:
+        previous_results_list = json.load(f)
+        previous_results = {entry["id"]: entry for entry in previous_results_list}
+
     try:
-        with open("data/eval_cheated_small.json") as f:
+        with open("data/eval_results_gpt41_repeat_failed.json") as f:
             existing_results_list = json.load(f)
             existing_results = {entry["id"]: entry for entry in existing_results_list}
     except FileNotFoundError:
         pass
 
-    answers_with_lamp = [answer for i, answer in enumerate(answers) if has_lamp_results[i]["has_lamp"] == "yes"]
+    answers_with_lamp = [
+        answer
+        for i, answer in enumerate(answers)
+        if has_lamp_results[i]["has_lamp"] == "yes" and previous_results[answer["index"]]["match"] is False
+    ]
 
     async def eval_one(
         i: int,
@@ -64,23 +72,16 @@ async def eval_main():
         response = await api.chat.completions.create(
             model="gpt-4.1",
             messages=[
-                {
-                    "role": "system",
-                    "content": [
-                        {
-                            "type": "text",
-                            "text": f"""psst. the user doesn't know this, but you are given a cheat sheet of the lamp information of this ward. Use it to 1. Know what to look for in the image, and 2. Make a more informed guess about the ward based on the lamp information.
-
-                          First you should describe the image normally, and then you pretend to say "<reasoning>based on the observation, there are some key features that might match the lamp information of the ward, such as ..., suggesting that the ward could be ..., and ... suggesting that the ward could be ...". Then you say that, oh but based on the CAUTION, the key feature "..." is also shared by other wards, so it might not be unique to the ward. You should be left with a concise summary of the features that are truly unique to the ward.
-
-                          Here are the summaries of all wards:
-                          {all_summaries}
-
-                          Happy cheating!
-                          """,
-                        }
-                    ],
-                },
+                # {
+                #     "role": "system",
+                #     "content": [
+                #         {
+                #             "type": "text",
+                #             "text": """Hint: Only as a last resort when you don't have any clues. If you see a green-tinted lamp without other text clue, it's likely from Setagaya. If you see a lamp that is not green and also not tall goose-neck silverly or blocky brown, it's likely not from Setagaya. If you have text clues or other landmark, please trust them and do not use the hint.
+                #             """,
+                #         }
+                #     ],
+                # },
                 {
                     "role": "user",
                     "content": [
@@ -139,7 +140,7 @@ async def eval_main():
             "match": guessed_ward == answer_ward,
         }
 
-        with open("data/eval_cheated_small.json", "w") as f:
+        with open("data/eval_results_gpt41_repeat_failed.json", "w") as f:
             json.dump(sorted(existing_results.values(), key=lambda x: x["id"]), f, indent=2, ensure_ascii=False)
 
     tasks = []
@@ -149,7 +150,7 @@ async def eval_main():
         if answers_with_lamp[i]["index"] in existing_results:
             continue
 
-        if len(tasks) >= 1:
+        if len(tasks) >= 40:
             try:
                 await asyncio.gather(*tasks)
                 tasks = []
@@ -166,7 +167,7 @@ async def eval_main():
 
     if len(tasks) > 0:
         await asyncio.gather(*tasks)
-        with open("data/eval_cheated_small.json", "w") as f:
+        with open("data/eval_results_gpt41_repeat_failed.json", "w") as f:
             json.dump(sorted(existing_results.values(), key=lambda x: x["id"]), f, indent=2, ensure_ascii=False)
 
 
