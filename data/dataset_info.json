@@ -1,4 +1,12 @@
 {
+  "japan-1k": {
+    "file_name": "japan-1k-train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "image"
+    }
+  },
   "tokyo_2k": {
     "file_name": "tokyo_2k.json",
     "formatting": "sharegpt",
