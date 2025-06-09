@@ -17,22 +17,22 @@ async def eval_main():
     with open("../hato/out/output_gpt.json") as f:
         answers = json.load(f).get("results", [])
 
-    with open("data/lamp_contrasted_summaries_small.json") as f:
-        summaries = json.load(f)
+    # with open("data/lamp_contrasted_summaries_small.json") as f:
+    #     summaries = json.load(f)
 
-    with open("data/has_lamp_v2.json") as f:
-        has_lamp_list = json.load(f)
-        has_lamp_results = {entry["id"]: entry for entry in has_lamp_list}
+    # with open("data/has_lamp_v2.json") as f:
+    #     has_lamp_list = json.load(f)
+    #     has_lamp_results = {entry["id"]: entry for entry in has_lamp_list}
 
-    all_summaries = "\n\n".join(
-        [f"{summary['ward']}'s Lamp features:\n{summary['lamp_info']}" for summary in summaries]
-    )
+    # all_summaries = "\n\n".join(
+    #     [f"{summary['ward']}'s Lamp features:\n{summary['lamp_info']}" for summary in summaries]
+    # )
 
     existing_results = {}
 
-    with open("data/eval_no_cheat.json") as f:
-        previous_results_list = json.load(f)
-        previous_results = {entry["id"]: entry for entry in previous_results_list}
+    # with open("data/eval_no_cheat.json") as f:
+    #     previous_results_list = json.load(f)
+    #     previous_results = {entry["id"]: entry for entry in previous_results_list}
 
     try:
         with open("data/eval_results_gpt41_repeat_failed.json") as f:
@@ -41,11 +41,13 @@ async def eval_main():
     except FileNotFoundError:
         pass
 
-    answers_with_lamp = [
-        answer
-        for i, answer in enumerate(answers)
-        if has_lamp_results[i]["has_lamp"] == "yes" and previous_results[answer["index"]]["match"] is False
-    ]
+    # answers_with_lamp = [
+    #     answer
+    #     for i, answer in enumerate(answers)
+    #     if has_lamp_results[i]["has_lamp"] == "yes" and previous_results[answer["index"]]["match"] is False
+    # ]
+
+    answers_with_lamp = answers
 
     async def eval_one(
         i: int,
