@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: Qwen/Qwen2.5-VL-7B-Instruct-AWQ
+model_name_or_path: Qwen/Qwen2.5-VL-7B-Instruct
 image_max_pixels: 921600
 video_max_pixels: 16384
 trust_remote_code: true
@@ -12,7 +12,7 @@ lora_rank: 16
 lora_target: all
 
 ### dataset
-dataset: tokyo_2k
+dataset: japan-1k
 template: qwen2_vl
 cutoff_len: 2048
 max_samples: 2000

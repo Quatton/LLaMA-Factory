@@ -22,7 +22,7 @@ preprocessing_num_workers: 16
 dataloader_num_workers: 4
 
 ### output
-output_dir: saves/qwen2_5vl-3b/lora64/sft
+output_dir: saves/qwen2_5vl-3b/lora/sft
 logging_steps: 10
 save_steps: 500
 plot_loss: true
