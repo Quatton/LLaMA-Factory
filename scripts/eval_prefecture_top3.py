@@ -12,7 +12,7 @@ load_dotenv()
 
 api = AsyncAzureOpenAI(api_version="2025-04-01-preview")
 
-OUTFILE = "data/eval_results_gpt41_jp_sampled_p_02_no_tokyo.json"
+OUTFILE = "data/eval_results_gpt41_jp_sampled_p_02_top_3.json"
 DATA = "data/japan-5k-sampled.json"
 IMAGE_ROOT = "data/jp-test"
 
@@ -30,7 +30,7 @@ async def eval_main():
     except FileNotFoundError:
         pass
 
-    answers_with_lamp = [answer for answer in answers if answer["prefecture"].lower() != "tokyo"]
+    answers_with_lamp = answers
 
     async def eval_one(
         i: int,
@@ -104,20 +104,20 @@ async def eval_main():
                 # Prefectures: Aomori, Iwate, Fukushima, Ibaraki, Saitama, Tokyo, Kanagawa, Aichi, Mie, Shiga, Osaka
                 #                     """,
                 #                 },
-                {
-                    "role": "system",
-                    "content": "There is no Tokyo here so don't answer Tokyo.",
-                },
+                # {
+                #     "role": "system",
+                #     "content": "There is no Tokyo here so don't answer Tokyo.",
+                # },
                 {
                     "role": "user",
                     "content": [
                         {
                             "type": "text",
                             "text": """
-                          You will be given a scene image from Japan. Your task is to guess one of the 47 prefectures of Tokyo based on the image. Try to identify the image based on the key features and make a guess.
+                          You will be given a scene image from Japan. Your task is to guess one of the 47 prefectures of Tokyo based on the image. Try to identify the image based on the key features and make a guess. You can guess at least 3 candidates, comma-separated, no spaces.
 
                           Your answer format should be an XML object with the following structure:
-                          <observation>Details about the image without specifying the prefecture</observation><reasoning>Based on the observation, try to look for candidate prefectures that might match the image. If you are not sure, guess the prefecture that you think is most likely to match the image.</reasoning><prefecture>prefecture name w/o suffix or special characters</prefecture>
+                          <observation>Details about the image without specifying the prefecture</observation><reasoning>Based on the observation, try to look for candidate prefectures that might match the image. If you are not sure, guess the prefecture that you think is most likely to match the image.</reasoning><prefecture>prefecture1,prefecture2,prefecture3</prefecture>
                           """,
                         },
                         {
@@ -150,10 +150,13 @@ async def eval_main():
 
         observation = match.group(1).strip()
         reasoning = match.group(2).strip()
-        guessed_prefecture = match.group(3).strip()
+        guessed_prefectures = match.group(3).strip().split(",")
 
         answer_prefecture = prefecture.lower().replace("ō", "o").replace("ē", "e")
-        guessed_prefecture = guessed_prefecture.lower().replace("ō", "o").replace("ē", "e").replace(" prefecture", "")
+        guessed_prefectures = [
+            guessed_prefecture.lower().strip().replace("ō", "o").replace("ē", "e").replace(" prefecture", "")
+            for guessed_prefecture in guessed_prefectures
+        ]
 
         existing_results[id] = {
             "id": id,
@@ -162,9 +165,9 @@ async def eval_main():
             "image_path": image_path,
             "observation": observation,
             "reasoning": reasoning,
-            "guess_prefecture": guessed_prefecture,
+            "guess_prefecture": guessed_prefectures,
             "raw_content": content.strip(),
-            "match": guessed_prefecture == answer_prefecture,
+            "match": answer_prefecture in guessed_prefectures,
         }
 
         with open(OUTFILE, "w") as f:
